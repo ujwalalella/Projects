@@ -1,0 +1,1753 @@
+BHK,Residential_type,Furnishing,Bathroom,Tenants_preferred,Balcony,Posted_by,City,Price
+5,Villa,Semi-Furnished,4,Family,1.0,Agent,Hyderabad,310000
+3,Flat ,Unfurnished,3,Family,3.0,Agent,Hyderabad,36000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,45000
+2,Flat ,Furnished,2,Bachelors,1.0,Owner,Hyderabad,42000
+4,Villa,Semi-Furnished,7,Bachelors/Family,2.0,Agent,Hyderabad,110000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,80000
+3,Flat ,Semi-Furnished,1,Family,1.0,Agent,Hyderabad,15000
+2,Villa,Semi-Furnished,2,Family,1.0,Agent,Hyderabad,28000
+4, House,Furnished,5,Family,2.0,Owner,Hyderabad,10000
+2,Flat ,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,15000
+3,Flat ,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,33500
+3,Flat ,Semi-Furnished,3,Bachelors,2.0,Agent,Hyderabad,67000
+3,Flat ,Semi-Furnished,3,Bachelors,2.0,Agent,Hyderabad,190000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,62000
+4,Flat ,Semi-Furnished,5,Bachelors/Family,2.0,Owner,Hyderabad,98000
+3,Flat ,Unfurnished,3,Family,3.0,Owner,Hyderabad,27000
+2,Flat ,Furnished,2,Bachelors,1.0,Agent,Hyderabad,43000
+4,Villa,Unfurnished,4,Bachelors/Family,2.0,Owner,Hyderabad,120000
+3,Flat ,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,32500
+3, House,Unfurnished,2,Bachelors/Family,1.5,Owner,Hyderabad,40000
+3,Flat ,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,35000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,22000
+4,Villa,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,43000
+2,Flat ,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,35000
+3,Flat ,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,50000
+2, House,Unfurnished,2,Bachelors,2.0,Owner,Hyderabad,14500
+3,Flat ,Unfurnished,2,Family,2.0,Owner,Hyderabad,32000
+2,Flat ,Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,32000
+3,Flat ,Unfurnished,3,Bachelors/Family,3.0,Owner,Hyderabad,62000
+2,Flat ,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,25000
+7,Villa,Semi-Furnished,7,Bachelors/Family,2.0,Owner,Hyderabad,160000
+4,Villa,Furnished,4,Bachelors,2.0,Owner,Hyderabad,70000
+3, House,Unfurnished,2,Bachelors/Family,1.5,Owner,Hyderabad,13500
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Hyderabad,15000
+2,Apartment,Furnished,2,Bachelors,2.0,Owner,Hyderabad,25000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,90000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Owner,Hyderabad,25000
+4, House,Semi-Furnished,3,Bachelors,3.0,Owner,Hyderabad,22000
+3, House,Unfurnished,3,Bachelors,3.0,Owner,Hyderabad,30000
+2,Apartment,Furnished,2,Bachelors,1.0,Owner,Hyderabad,44000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,36000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,50000
+3,Apartment,Furnished,3,Bachelors,1.0,Owner,Hyderabad,35000
+3,Villa,Semi-Furnished,5,Bachelors/Family,1.0,Owner,Hyderabad,75000
+5, House,Semi-Furnished,5,Bachelors/Family,1.0,Owner,Hyderabad,130000
+4,Villa,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,60000
+3,Villa,Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,60000
+4,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Hyderabad,80000
+4,Villa,Semi-Furnished,6,Bachelors/Family,3.0,Agent,Hyderabad,290000
+3,Apartment,Unfurnished,3,Bachelors,1.0,Owner,Hyderabad,44000
+4,Villa,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,10000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,85000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Owner,Hyderabad,35000
+4, House,Unfurnished,5,Bachelors,2.0,Agent,Hyderabad,450000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Hyderabad,48000
+3,Villa,Unfurnished,4,Bachelors/Family,1.0,Owner,Hyderabad,38000
+3,Apartment,Semi-Furnished,3,Family,1.0,Owner,Hyderabad,35000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Hyderabad,55000
+2, House,Semi-Furnished,2,Bachelors/Family,3.0,Owner,Hyderabad,20000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,42000
+1,Apartment,Furnished,1,Bachelors,1.0,Owner,Hyderabad,24000
+4,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,10000
+5, House,Unfurnished,5,Bachelors/Family,8.0,Owner,Hyderabad,95000
+4, House,Semi-Furnished,4,Bachelors/Family,1.0,Owner,Hyderabad,36000
+4,Villa,Semi-Furnished,5,Bachelors/Family,2.0,Owner,Hyderabad,130000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,3.0,Owner,Hyderabad,53000
+2, House,Unfurnished,1,Family,1.0,Owner,Hyderabad,18000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Hyderabad,45000
+4, House,Unfurnished,5,Family,2.0,Owner,Hyderabad,130000
+4, House,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,70000
+3,Villa,Furnished,5,Family,2.0,Owner,Hyderabad,120000
+3, House,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,35000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Owner,Hyderabad,31000
+3,Apartment,Semi-Furnished,3,Family,2.0,Owner,Hyderabad,50000
+5,Villa,Semi-Furnished,5,Bachelors/Family,3.0,Owner,Hyderabad,90000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,45000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,70000
+4, House,Semi-Furnished,5,Family,4.0,Owner,Hyderabad,40000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,56000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Hyderabad,46000
+3,Apartment,Semi-Furnished,3,Family,1.0,Owner,Hyderabad,15000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,17000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,70000
+3,Apartment,Furnished,3,Family,4.0,Owner,Hyderabad,32000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,25000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,49000
+2,Builder Floor,Semi-Furnished,2,Bachelors,2.0,Agent,Hyderabad,31000
+3,Apartment,Semi-Furnished,1,Family,1.0,Agent,Hyderabad,120000
+3,Villa,Furnished,4,Family,1.0,Agent,Hyderabad,10000
+4, House,Furnished,4,Family,3.0,Agent,Hyderabad,250000
+3,Apartment,Furnished,3,Family,2.0,Owner,Hyderabad,61000
+4,Apartment,Furnished,5,Family,1.0,Agent,Hyderabad,120000
+10, House,Semi-Furnished,10,Bachelors/Family,10.0,Owner,Hyderabad,40000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Hyderabad,75000
+4,Apartment,Semi-Furnished,4,Bachelors,2.0,Agent,Hyderabad,110000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Hyderabad,60000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Hyderabad,36000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Hyderabad,30000
+4,Apartment,Semi-Furnished,5,Bachelors,2.0,Agent,Hyderabad,110000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Hyderabad,40000
+4,Villa,Semi-Furnished,5,Family,2.0,Agent,Hyderabad,110000
+3,Apartment,Furnished,3,Family,1.0,Agent,Hyderabad,58000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Hyderabad,64000
+3,Apartment,Furnished,3,Bachelors,1.0,Agent,Hyderabad,56000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Hyderabad,60000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,68000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Hyderabad,55000
+2,Builder Floor,Semi-Furnished,1,Bachelors/Family,2.0,Agent,Hyderabad,23000
+3, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,75000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Agent,Hyderabad,53000
+2,Apartment,Semi-Furnished,2,Bachelors,3.0,Agent,Hyderabad,37000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Hyderabad,120000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,190000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Hyderabad,70000
+4,Villa,Semi-Furnished,5,Family,2.0,Agent,Hyderabad,140000
+2,Apartment,Semi-Furnished,2,Family,2.0,Agent,Hyderabad,55000
+3,Apartment,Furnished,2,Bachelors/Family,1.0,Agent,Hyderabad,50000
+5,Villa,Semi-Furnished,5,Bachelors/Family,3.0,Agent,Hyderabad,180000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,50000
+4,Apartment,Semi-Furnished,6,Family,2.0,Agent,Hyderabad,450000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Hyderabad,27000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Hyderabad,42000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Hyderabad,42000
+2,Apartment,Furnished,2,Bachelors/Family,2.0,Agent,Hyderabad,34000
+4,Villa,Furnished,5,Bachelors,2.0,Agent,Hyderabad,140000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Hyderabad,65000
+4,Apartment,Unfurnished,4,Family,3.0,Agent,Hyderabad,250000
+4,Apartment,Semi-Furnished,4,Family,2.0,Agent,Hyderabad,330000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,60200
+4,Villa,Semi-Furnished,5,Bachelors,3.0,Agent,Hyderabad,80000
+3,Apartment,Semi-Furnished,4,Family,2.0,Agent,Hyderabad,56000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Hyderabad,60000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Hyderabad,42000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Hyderabad,45000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Agent,Hyderabad,19000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Hyderabad,85000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Hyderabad,35000
+4,Villa,Semi-Furnished,5,Bachelors/Family,2.0,Owner,Hyderabad,170000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,45000
+4,Villa,Semi-Furnished,5,Bachelors,2.0,Agent,Hyderabad,10000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Hyderabad,58000
+3,Apartment,Furnished,4,Bachelors,1.0,Agent,Hyderabad,190000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Hyderabad,50000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Hyderabad,52000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Hyderabad,67000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Hyderabad,43000
+4,Villa,Semi-Furnished,5,Family,2.0,Agent,Hyderabad,180000
+3,Apartment,Unfurnished,3,Family,2.0,Agent,Hyderabad,80000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Hyderabad,20000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Hyderabad,36000
+2,Apartment,Furnished,2,Family,1.0,Agent,Hyderabad,60000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Hyderabad,80000
+1,Apartment,Unfurnished,1,Bachelors,1.0,Agent,Hyderabad,13500
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Hyderabad,16500
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Hyderabad,45000
+4,Apartment,Furnished,3,Bachelors,5.0,Agent,Hyderabad,150000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Hyderabad,80000
+3,Apartment,Furnished,3,Family,2.0,Agent,Hyderabad,70000
+3,Apartment,Unfurnished,3,Bachelors,1.0,Agent,Hyderabad,60000
+3,Apartment,Semi-Furnished,4,Bachelors,3.0,Agent,Hyderabad,130000
+4,Apartment,Semi-Furnished,4,Bachelors,3.0,Agent,Hyderabad,130000
+1, House,Semi-Furnished,1,Bachelors/Family,1.0,Agent,Hyderabad,9000
+3,Apartment,Furnished,3,Bachelors,1.0,Agent,Hyderabad,73000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,75000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,28000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Hyderabad,57000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Hyderabad,48000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,18000
+3,Villa,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,25000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,60000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Hyderabad,45000
+3,Villa,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,50000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,50000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,30000
+4,Villa,Semi-Furnished,3,Family,2.0,Owner,Hyderabad,85000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,24000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,16000
+3,Apartment,Unfurnished,3,Bachelors/Family,1.0,Owner,Hyderabad,55000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,24000
+3,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Hyderabad,22000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Hyderabad,35000
+2,Builder Floor,Unfurnished,2,Bachelors,1.0,Owner,Hyderabad,22000
+3,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Hyderabad,30000
+1,Penthouse,Semi-Furnished,1,Bachelors/Family,2.0,Owner,Hyderabad,10000
+4,Villa,Furnished,5,Bachelors/Family,1.0,Owner,Hyderabad,130000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,19000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Hyderabad,19900
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,30000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,80000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Owner,Hyderabad,60000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Hyderabad,55000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,56000
+6,Builder Floor,Semi-Furnished,10,Bachelors/Family,2.0,Owner,Hyderabad,10000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,22000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,25000
+2,Apartment,Unfurnished,2,Bachelors/Family,2.0,Owner,Hyderabad,31000
+4,Villa,Furnished,7,Bachelors/Family,1.0,Owner,Hyderabad,80000
+4,Villa,Furnished,5,Bachelors/Family,1.0,Owner,Hyderabad,40000
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Owner,Hyderabad,35000
+1, House,Furnished,1,Bachelors,1.0,Owner,Hyderabad,21000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,15000
+4,Villa,Furnished,4,Family,2.0,Owner,Hyderabad,30000
+2, House,Unfurnished,2,Bachelors,2.0,Owner,Hyderabad,23000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,18000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Hyderabad,10000
+4,Villa,Semi-Furnished,5,Family,3.0,Owner,Hyderabad,52000
+3, House,Unfurnished,3,Bachelors,1.0,Owner,Hyderabad,25000
+3,Villa,Semi-Furnished,4,Family,2.0,Owner,Hyderabad,83000
+3, House,Furnished,3,Bachelors,3.0,Owner,Hyderabad,23000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,22000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Hyderabad,120000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,40000
+4,Villa,Semi-Furnished,6,Bachelors/Family,3.0,Agent,Hyderabad,190000
+3, House,Semi-Furnished,3,Family,3.0,Owner,Hyderabad,16000
+4,Villa,Semi-Furnished,5,Bachelors/Family,2.0,Owner,Hyderabad,250000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,50000
+3,Apartment,Semi-Furnished,2,Family,1.0,Owner,Hyderabad,22000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,4.0,Owner,Hyderabad,250000
+3,Apartment,Semi-Furnished,3,Family,3.0,Owner,Hyderabad,50000
+4,Villa,Semi-Furnished,4,Bachelors/Family,4.0,Owner,Hyderabad,110000
+2,Apartment,Furnished,2,Bachelors,1.0,Owner,Hyderabad,19000
+2,Apartment,Unfurnished,2,Family,2.0,Owner,Hyderabad,15000
+2, House,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Hyderabad,22000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,58000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,22000
+2, House,Furnished,2,Family,3.0,Owner,Hyderabad,35000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Owner,Hyderabad,21500
+3,Apartment,Unfurnished,2,Family,4.0,Owner,Hyderabad,26000
+3,Apartment,Furnished,3,Bachelors/Family,4.0,Owner,Hyderabad,85000
+4,Villa,Semi-Furnished,2,Family,2.0,Owner,Hyderabad,55000
+2,Apartment,Furnished,2,Bachelors/Family,3.0,Owner,Hyderabad,47000
+4,Villa,Furnished,5,Bachelors,2.0,Owner,Hyderabad,20000
+3,Apartment,Unfurnished,3,Family,1.0,Agent,Hyderabad,65000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Hyderabad,65000
+4,Villa,Unfurnished,6,Bachelors/Family,2.0,Owner,Hyderabad,60000
+4, House,Unfurnished,4,Bachelors/Family,3.0,Owner,Hyderabad,45000
+4,Villa,Semi-Furnished,5,Bachelors/Family,2.0,Agent,Hyderabad,130000
+3, House,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,17000
+5,Villa,Semi-Furnished,5,Bachelors,2.0,Owner,Hyderabad,60000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Hyderabad,40000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,45000
+3,Villa,Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,35000
+1,Apartment,Unfurnished,1,Bachelors/Family,1.0,Owner,Hyderabad,18000
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Hyderabad,13000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Owner,Hyderabad,30000
+2, House,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,15000
+3,Villa,Semi-Furnished,5,Bachelors,1.0,Owner,Hyderabad,150000
+3,Apartment,Unfurnished,3,Bachelors,1.0,Owner,Hyderabad,31000
+3, House,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,30000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Hyderabad,50000
+3,Apartment,Furnished,3,Bachelors,2.0,Agent,Hyderabad,53000
+2,Builder Floor,Semi-Furnished,2,Family,3.0,Owner,Hyderabad,19000
+2, House,Unfurnished,2,Bachelors,3.0,Owner,Hyderabad,33000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,80000
+3,Apartment,Semi-Furnished,3,Family,2.0,Owner,Hyderabad,30000
+3,Apartment,Semi-Furnished,2,Family,2.0,Owner,Hyderabad,32000
+3,Apartment,Semi-Furnished,3,Family,1.0,Owner,Hyderabad,50000
+2,Apartment,Furnished,2,Bachelors/Family,3.0,Owner,Hyderabad,35000
+5,Villa,Semi-Furnished,7,Bachelors/Family,2.0,Owner,Hyderabad,20000
+5,Villa,Semi-Furnished,5,Bachelors/Family,3.0,Owner,Hyderabad,55000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,12000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,48000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,80000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,8000
+4,Apartment,Unfurnished,4,Bachelors,3.0,Agent,Hyderabad,30000
+2,Penthouse,Furnished,2,Bachelors/Family,3.0,Owner,Hyderabad,42000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,65000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Agent,Hyderabad,78000
+3,Apartment,Semi-Furnished,4,Bachelors,3.0,Owner,Hyderabad,65000
+3,Penthouse,Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,85000
+5,Villa,Unfurnished,4,Bachelors,1.0,Owner,Hyderabad,20000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,52000
+2,Villa,Semi-Furnished,2,Bachelors,1.0,Owner,Hyderabad,13500
+2, House,Furnished,2,Bachelors/Family,1.0,Agent,Hyderabad,25000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Hyderabad,15000
+3, House,Unfurnished,3,Bachelors,1.5,Agent,Hyderabad,40000
+4,Apartment,Furnished,4,Bachelors/Family,2.0,Agent,Hyderabad,190000
+4,Villa,Semi-Furnished,5,Family,2.0,Agent,Hyderabad,30000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Hyderabad,35000
+3,Apartment,Furnished,3,Bachelors,1.0,Agent,Hyderabad,85000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Hyderabad,53000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Hyderabad,64995
+4,Villa,Unfurnished,4,Bachelors,2.0,Agent,Hyderabad,130000
+4, House,Semi-Furnished,4,Family,1.0,Owner,Hyderabad,38000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Hyderabad,65000
+3,Apartment,Semi-Furnished,3,Family,2.0,Owner,Hyderabad,46000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Hyderabad,82000
+3,Apartment,Furnished,3,Bachelors,2.0,Agent,Hyderabad,120000
+2,Apartment,Semi-Furnished,2,Family,2.0,Agent,Hyderabad,22000
+3,Villa,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,13000
+5,Villa,Semi-Furnished,6,Family,1.0,Owner,Hyderabad,60000
+4, House,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,35000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,10000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Hyderabad,40000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Hyderabad,180000
+4,Villa,Semi-Furnished,5,Bachelors/Family,1.0,Agent,Hyderabad,130000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,70000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,60000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Hyderabad,48000
+4, House,Semi-Furnished,4,Family,1.0,Owner,Hyderabad,35000
+2, House,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,38000
+4,Villa,Semi-Furnished,3,Family,1.0,Owner,Hyderabad,30000
+4,Villa,Semi-Furnished,4,Bachelors,2.0,Agent,Hyderabad,130000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,32000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,26000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,47000
+3,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Hyderabad,30000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,65000
+3,Apartment,Unfurnished,3,Bachelors/Family,3.0,Owner,Hyderabad,25000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,3.0,Owner,Hyderabad,25000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,23000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Hyderabad,26000
+4,Builder Floor,Unfurnished,1,Bachelors/Family,2.0,Owner,Hyderabad,20000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,50000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,28000
+1, House,Unfurnished,1,Family,1.0,Owner,Hyderabad,14500
+4,Villa,Semi-Furnished,4,Bachelors/Family,1.0,Agent,Hyderabad,330000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Hyderabad,42000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Hyderabad,10000
+2, House,Semi-Furnished,2,Bachelors/Family,3.0,Owner,Hyderabad,24500
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,34500
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,12000
+3,Apartment,Semi-Furnished,4,Family,2.0,Owner,Hyderabad,78000
+3,Villa,Semi-Furnished,3,Family,2.0,Owner,Hyderabad,35000
+4,Villa,Semi-Furnished,4,Family,3.0,Owner,Hyderabad,35000
+3,Apartment,Unfurnished,2,Bachelors/Family,3.0,Owner,Hyderabad,25000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,13500
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Hyderabad,30000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,35000
+3,Apartment,Unfurnished,3,Family,2.0,Owner,Hyderabad,62000
+4,Villa,Semi-Furnished,6,Family,2.0,Agent,Hyderabad,450000
+3,Apartment,Furnished,3,Bachelors,2.0,Agent,Hyderabad,58000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,45000
+2,Apartment,Unfurnished,2,Bachelors,3.0,Owner,Hyderabad,40000
+2, House,Unfurnished,2,Bachelors,4.0,Owner,Hyderabad,23000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,50000
+4,Villa,Semi-Furnished,5,Bachelors/Family,2.0,Agent,Hyderabad,180000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Hyderabad,55000
+4,Penthouse,Semi-Furnished,4,Bachelors,3.0,Owner,Hyderabad,95000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,48000
+3,Villa,Furnished,3,Bachelors,2.0,Owner,Hyderabad,24000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,40000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Agent,Hyderabad,55000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Hyderabad,40000
+3,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,30000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,24000
+1, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,14000
+3,Apartment,Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,30000
+3,Apartment,Semi-Furnished,2,Family,3.0,Owner,Hyderabad,31000
+3,Apartment,Unfurnished,3,Bachelors/Family,3.0,Owner,Hyderabad,42000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,28000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,35000
+3,Builder Floor,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,25000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Owner,Hyderabad,40000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Hyderabad,35000
+2,Apartment,Semi-Furnished,2,Bachelors,3.0,Owner,Hyderabad,15000
+3,Apartment,Semi-Furnished,2,Family,2.0,Owner,Hyderabad,35000
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Hyderabad,18000
+3,Apartment,Furnished,3,Bachelors,2.0,Owner,Hyderabad,15000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,25000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Hyderabad,22000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Agent,Hyderabad,64000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Hyderabad,60000
+1,Apartment,Furnished,1,Bachelors,1.0,Agent,Hyderabad,18000
+5,Villa,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Hyderabad,270000
+3,Apartment,Furnished,3,Bachelors,1.0,Owner,Hyderabad,45000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Hyderabad,75000
+3,Villa,Unfurnished,3,Bachelors,2.0,Owner,Hyderabad,32000
+2, House,Unfurnished,3,Bachelors,1.0,Owner,Hyderabad,25000
+1,Penthouse,Unfurnished,1,Bachelors,2.0,Owner,Hyderabad,6000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,27000
+2, House,Semi-Furnished,2,Bachelors,1.0,Owner,Hyderabad,40000
+3,Apartment,Unfurnished,2,Bachelors,3.0,Owner,Hyderabad,35000
+2,Builder Floor,Unfurnished,2,Bachelors,2.0,Owner,Hyderabad,24000
+4,Villa,Furnished,4,Bachelors/Family,3.0,Owner,Hyderabad,10000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,23000
+4,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,70000
+4,Apartment,Semi-Furnished,4,Bachelors,2.0,Owner,Hyderabad,140000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,8500
+1,Penthouse,Unfurnished,1,Bachelors,2.0,Owner,Hyderabad,12000
+4,Villa,Semi-Furnished,5,Family,2.0,Owner,Hyderabad,45000
+3,Villa,Semi-Furnished,4,Bachelors/Family,1.0,Owner,Hyderabad,35000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Owner,Hyderabad,35000
+3,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,36000
+1, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,6000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,11000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,7000
+2, House,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,17000
+3,Apartment,Unfurnished,3,Family,1.0,Owner,Hyderabad,60000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Hyderabad,27000
+3,Apartment,Furnished,3,Bachelors/Family,1.0,Owner,Hyderabad,50000
+2, House,Unfurnished,3,Bachelors,2.0,Owner,Hyderabad,18000
+4, House,Semi-Furnished,5,Bachelors/Family,6.0,Owner,Hyderabad,60000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,30000
+3,Apartment,Furnished,3,Bachelors,2.0,Owner,Hyderabad,26000
+3,Apartment,Semi-Furnished,3,Family,2.0,Owner,Hyderabad,40000
+3,Apartment,Unfurnished,2,Bachelors/Family,2.0,Owner,Hyderabad,13500
+2,Builder Floor,Furnished,2,Bachelors,2.0,Owner,Hyderabad,22000
+2, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,20000
+4,Villa,Furnished,4,Bachelors/Family,3.0,Owner,Hyderabad,60000
+4,Villa,Furnished,4,Bachelors/Family,3.0,Owner,Hyderabad,20000
+2, House,Unfurnished,2,Bachelors/Family,2.0,Owner,Hyderabad,12500
+4, House,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,60000
+3,Apartment,Unfurnished,2,Bachelors,2.0,Owner,Hyderabad,19000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,70000
+3,Apartment,Unfurnished,2,Bachelors/Family,2.0,Owner,Hyderabad,28000
+3,Apartment,Unfurnished,3,Bachelors,4.0,Owner,Hyderabad,42500
+2,Apartment,Furnished,2,Bachelors,3.0,Owner,Hyderabad,47000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Hyderabad,85000
+3,Villa,Semi-Furnished,5,Bachelors/Family,3.0,Owner,Hyderabad,33000
+3, House,Unfurnished,3,Bachelors/Family,2.0,Owner,Hyderabad,32000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,40000
+2, House,Semi-Furnished,1,Family,1.0,Owner,Hyderabad,12500
+3,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Hyderabad,23000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,32000
+5,Villa,Furnished,5,Bachelors/Family,3.0,Owner,Hyderabad,20000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Owner,Hyderabad,20000
+3,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,24000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,18000
+2,Apartment,Unfurnished,2,Bachelors/Family,2.0,Owner,Hyderabad,12000
+3,Villa,Unfurnished,3,Bachelors,3.0,Owner,Hyderabad,25000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,15500
+1, House,Furnished,1,Bachelors,1.0,Owner,Hyderabad,10000
+3, House,Unfurnished,3,Bachelors/Family,1.0,Owner,Hyderabad,12000
+3,Apartment,Semi-Furnished,4,Bachelors,2.0,Owner,Hyderabad,50000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Hyderabad,27000
+2, House,Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,36000
+10, House,Furnished,10,Bachelors,7.0,Owner,Hyderabad,5500
+4,Apartment,Furnished,4,Bachelors/Family,6.0,Owner,Hyderabad,110000
+4,Villa,Semi-Furnished,3,Family,3.0,Owner,Hyderabad,70000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Hyderabad,25000
+3,Villa,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,30000
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Hyderabad,6500
+4,Villa,Semi-Furnished,4,Bachelors,2.0,Owner,Hyderabad,25000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,70000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Hyderabad,42000
+3,Villa,Semi-Furnished,5,Bachelors,2.0,Owner,Hyderabad,85000
+2, House,Unfurnished,2,Family,1.0,Owner,Hyderabad,16000
+1, House,Semi-Furnished,1,Bachelors,1.0,Owner,Hyderabad,8500
+3, House,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,22000
+4,Builder Floor,Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,60000
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Hyderabad,7000
+3,Apartment,Semi-Furnished,3,Family,2.0,Owner,Hyderabad,70000
+4, House,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Hyderabad,120000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Hyderabad,7000
+3, House,Unfurnished,4,Bachelors/Family,1.0,Owner,Hyderabad,17100
+2,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,29000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Hyderabad,18000
+4,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Hyderabad,120000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Hyderabad,35000
+3,Apartment,Furnished,2,Bachelors,2.0,Owner,Hyderabad,42000
+5, House,Furnished,5,Bachelors/Family,2.0,Owner,Hyderabad,10000
+4,Apartment,Furnished,4,Bachelors/Family,3.0,Owner,Hyderabad,95000
+2,Apartment,Furnished,2,Bachelors,1.0,Owner,Hyderabad,60000
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Hyderabad,5900
+2,Builder Floor,Unfurnished,2,Bachelors,1.0,Owner,Hyderabad,10000
+1,Apartment,Semi-Furnished,1,Bachelors,2.0,Owner,Hyderabad,65000
+3,Flat ,Furnished,3,Bachelors/Family,2.0,Owner,Bangalore,150000
+3,Flat ,Furnished,3,Family,1.0,Owner,Bangalore,85000
+3,Flat ,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Bangalore,50000
+3,Flat ,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Bangalore,65000
+3,Flat ,Semi-Furnished,3,Bachelors,3.0,Owner,Bangalore,65000
+3,Flat ,Unfurnished,3,Bachelors/Family,2.0,Owner,Bangalore,78000
+2,Flat ,Semi-Furnished,2,Bachelors,2.0,Owner,Bangalore,37000
+3,Flat ,Unfurnished,4,Bachelors/Family,2.0,Owner,Bangalore,210000
+4,Villa,Semi-Furnished,4,Bachelors,2.0,Owner,Bangalore,140000
+3,Flat ,Unfurnished,3,Bachelors,3.0,Owner,Bangalore,50000
+3,Flat ,Semi-Furnished,3,Bachelors,2.0,Owner,Bangalore,65000
+3,Flat ,Semi-Furnished,3,Bachelors,3.0,Owner,Bangalore,130000
+4,Flat ,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Bangalore,80000
+3,Flat ,Semi-Furnished,4,Bachelors,2.0,Owner,Bangalore,52000
+4,Flat ,Semi-Furnished,5,Bachelors/Family,3.0,Owner,Bangalore,30000
+3,Flat ,Furnished,3,Bachelors/Family,3.0,Owner,Bangalore,320000
+3,Flat ,Semi-Furnished,3,Family,2.0,Owner,Bangalore,42000
+3,Flat ,Furnished,3,Bachelors/Family,3.0,Agent,Bangalore,20000
+3,Flat ,Semi-Furnished,2,Bachelors,2.0,Agent,Bangalore,32000
+1,Flat ,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Bangalore,45000
+3,Flat ,Furnished,3,Family,2.0,Agent,Bangalore,67000
+3,Flat ,Semi-Furnished,3,Family,1.0,Agent,Bangalore,45000
+4,Villa,Unfurnished,4,Bachelors/Family,3.0,Agent,Bangalore,450000
+3,Flat ,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Bangalore,260000
+2,Flat ,Semi-Furnished,2,Family,1.0,Agent,Bangalore,35000
+3,Flat ,Furnished,2,Bachelors,2.0,Agent,Bangalore,55000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Bangalore,50000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Bangalore,60000
+3,Flat ,Semi-Furnished,3,Family,3.0,Agent,Bangalore,22000
+3,Flat ,Unfurnished,3,Bachelors/Family,3.0,Agent,Bangalore,26000
+2,Apartment,Furnished,2,Family,1.0,Agent,Bangalore,50000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Bangalore,40000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Bangalore,62000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Agent,Bangalore,35000
+5,Villa,Furnished,5,Bachelors/Family,3.0,Owner,Bangalore,450000
+4,Villa,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Bangalore,120000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Bangalore,65000
+2,Apartment,Unfurnished,2,Bachelors,2.0,Agent,Bangalore,45000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Bangalore,48000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Bangalore,35000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Bangalore,33000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Bangalore,85000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Agent,Bangalore,40000
+4,Villa,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Bangalore,150000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Bangalore,58000
+2,Apartment,Semi-Furnished,2,Family,1.0,Agent,Bangalore,38000
+4,Apartment,Semi-Furnished,6,Bachelors/Family,2.0,Agent,Bangalore,180000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Bangalore,70000
+1,Builder Floor,Unfurnished,1,Bachelors,2.0,Agent,Bangalore,33000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Bangalore,90000
+3,Villa,Semi-Furnished,4,Family,3.0,Agent,Bangalore,110000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Bangalore,70000
+3,Apartment,Semi-Furnished,2,Bachelors,2.0,Agent,Bangalore,45000
+1, House,Unfurnished,1,Bachelors,1.0,Agent,Bangalore,10000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Bangalore,110000
+5,Villa,Semi-Furnished,5,Bachelors/Family,3.0,Agent,Bangalore,530000
+2,Apartment,Furnished,2,Bachelors,1.0,Agent,Bangalore,50000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Bangalore,50000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Bangalore,47000
+2,Apartment,Unfurnished,2,Bachelors,2.0,Agent,Bangalore,70000
+2,Apartment,Furnished,2,Bachelors/Family,2.0,Agent,Bangalore,85000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Bangalore,62000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Bangalore,75000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Bangalore,240000
+2,Apartment,Semi-Furnished,2,Family,2.0,Agent,Bangalore,42500
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Bangalore,250000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Bangalore,90000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Agent,Bangalore,190000
+2,Apartment,Semi-Furnished,2,Family,1.0,Agent,Bangalore,40000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Bangalore,55000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Bangalore,32000
+2,Apartment,Semi-Furnished,2,Family,1.0,Agent,Bangalore,37000
+4,Villa,Semi-Furnished,5,Bachelors/Family,3.0,Agent,Bangalore,250000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Agent,Bangalore,60000
+4,Apartment,Furnished,5,Family,5.0,Agent,Bangalore,330000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Bangalore,120000
+3,Villa,Furnished,4,Bachelors/Family,1.0,Agent,Bangalore,80000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Bangalore,56000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Bangalore,60000
+2,Apartment,Unfurnished,2,Bachelors/Family,2.0,Agent,Bangalore,34500
+3,Apartment,Furnished,4,Bachelors/Family,3.0,Agent,Bangalore,30000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Bangalore,33000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Bangalore,66000
+3,Villa,Unfurnished,3,Bachelors/Family,2.0,Agent,Bangalore,120000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Bangalore,42000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Bangalore,45000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Agent,Bangalore,48000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Bangalore,35000
+4,Flat ,Semi-Furnished,4,Bachelors,3.0,Owner,Chennai,95000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Chennai,180000
+6,Villa,Semi-Furnished,6,Bachelors/Family,2.0,Agent,Chennai,360000
+3,Flat ,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Chennai,150000
+1,Flat ,Semi-Furnished,1,Bachelors/Family,1.0,Agent,Chennai,18000
+5,Villa,Semi-Furnished,3,Bachelors/Family,5.0,Agent,Chennai,130000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Chennai,10000
+1,Flat ,Unfurnished,1,Bachelors,1.0,Owner,Chennai,10000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,80000
+4,Flat ,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,130000
+3,Flat ,Unfurnished,3,Bachelors,4.0,Owner,Chennai,30000
+3,Flat ,Furnished,3,Bachelors/Family,2.0,Owner,Chennai,15000
+2,Flat ,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,23500
+3,Flat ,Furnished,3,Family,1.0,Owner,Chennai,50000
+2,Flat ,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,23000
+3,Flat ,Unfurnished,3,Bachelors,2.0,Owner,Chennai,80000
+3, House,Unfurnished,3,Bachelors/Family,2.0,Owner,Chennai,45000
+2,Flat ,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,13500
+4, House,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,60000
+4,Flat ,Furnished,4,Bachelors,5.0,Owner,Chennai,260000
+2,Flat ,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,46000
+4,Flat ,Unfurnished,4,Bachelors,4.0,Owner,Chennai,20000
+3,Villa,Semi-Furnished,3,Family,1.0,Owner,Chennai,49000
+5,Villa,Semi-Furnished,6,Bachelors/Family,3.0,Owner,Chennai,20000
+1,Flat ,Unfurnished,1,Bachelors,1.0,Owner,Chennai,23500
+3,Villa,Semi-Furnished,3,Bachelors,2.0,Owner,Chennai,20000
+2,Flat ,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,18000
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,13000
+2,Villa,Semi-Furnished,3,Family,2.0,Owner,Chennai,150000
+2,Flat ,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,6000
+1, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,9000
+2, House,Unfurnished,1,Bachelors,2.0,Owner,Chennai,6500
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Chennai,15000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,15000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Chennai,35000
+1,Apartment,Furnished,1,Bachelors,1.0,Owner,Chennai,10000
+4, House,Semi-Furnished,3,Family,1.0,Owner,Chennai,60000
+1,Builder Floor,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,8000
+2, House,Furnished,3,Bachelors,1.0,Owner,Chennai,30000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,75000
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,1050000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Chennai,40000
+2,Villa,Unfurnished,2,Bachelors,1.0,Owner,Chennai,22000
+3,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,17000
+3,Apartment,Furnished,2,Bachelors,3.0,Owner,Chennai,10000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,150000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,14000
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,9000
+2,Builder Floor,Semi-Furnished,2,Bachelors,3.0,Owner,Chennai,25000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Chennai,70000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Owner,Chennai,65000
+3, House,Unfurnished,2,Family,1.5,Owner,Chennai,32000
+5,Villa,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,40000
+3, House,Unfurnished,4,Bachelors,1.0,Owner,Chennai,40000
+2,Apartment,Furnished,2,Bachelors,1.0,Owner,Chennai,30000
+5, House,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,180000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,25000
+3,Apartment,Furnished,3,Bachelors/Family,1.0,Agent,Chennai,70000
+4, House,Semi-Furnished,4,Bachelors/Family,1.0,Agent,Chennai,150000
+3,Apartment,Furnished,2,Bachelors,1.0,Agent,Chennai,42000
+4, House,Furnished,5,Bachelors/Family,3.0,Agent,Chennai,180000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Agent,Chennai,190000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Chennai,10000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Chennai,90000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Agent,Chennai,30000
+6, House,Unfurnished,5,Bachelors,2.0,Agent,Chennai,550000
+3,Villa,Furnished,3,Family,4.0,Agent,Chennai,10000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Chennai,140000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Chennai,170000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Chennai,36000
+3,Apartment,Furnished,4,Bachelors,2.0,Agent,Chennai,130000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Chennai,25000
+4,Apartment,Semi-Furnished,4,Bachelors,2.0,Agent,Chennai,130000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Chennai,45000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Chennai,10000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Agent,Chennai,120000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Chennai,50000
+2, House,Unfurnished,2,Family,1.0,Owner,Chennai,8000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,12000
+3,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,56000
+3,Apartment,Furnished,3,Bachelors/Family,1.0,Owner,Chennai,70000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Chennai,29500
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,13000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,90000
+2,Apartment,Furnished,2,Bachelors/Family,5.0,Owner,Chennai,50000
+3,Apartment,Furnished,2,Bachelors,2.0,Owner,Chennai,28000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,23000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,20000
+1,Apartment,Unfurnished,1,Bachelors,1.0,Owner,Chennai,21000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,25000
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,16000
+2, House,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,18000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,18000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,9500
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Chennai,32000
+2,Builder Floor,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,17000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,38000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,50000
+10, House,Furnished,10,Bachelors/Family,4.0,Owner,Chennai,20000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,32000
+5,Villa,Semi-Furnished,5,Bachelors,3.0,Owner,Chennai,120000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Chennai,75000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,10000
+2, House,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,30000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Agent,Chennai,40000
+2,Builder Floor,Unfurnished,2,Bachelors,1.0,Owner,Chennai,17000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Owner,Chennai,60000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,150000
+2,Apartment,Furnished,2,Bachelors,2.0,Owner,Chennai,50000
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,22000
+2,Villa,Semi-Furnished,2,Family,1.0,Owner,Chennai,14000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,28000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Chennai,130000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,30000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,170000
+5, House,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Chennai,60000
+1,Service Apartment,Semi-Furnished,1,Bachelors,2.0,Owner,Chennai,50000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,140000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,12000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Chennai,95000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,280000
+6, House,Semi-Furnished,5,Bachelors,2.0,Owner,Chennai,160000
+3,Villa,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,45000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,12000
+4,Villa,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Chennai,10000
+4,Apartment,Unfurnished,5,Family,2.0,Agent,Chennai,75000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Agent,Chennai,80000
+2,Villa,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Chennai,15000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Agent,Chennai,75000
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Agent,Chennai,22000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Agent,Chennai,47000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Chennai,180000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Chennai,120000
+4,Villa,Furnished,4,Bachelors,1.0,Agent,Chennai,75000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Chennai,130000
+3,Apartment,Unfurnished,3,Family,3.0,Agent,Chennai,60000
+3, House,Semi-Furnished,3,Bachelors,1.5,Owner,Chennai,60000
+2,Villa,Furnished,3,Bachelors/Family,1.0,Owner,Chennai,15000
+2, House,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,20000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,18000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Chennai,75000
+3,Apartment,Furnished,3,Bachelors,1.0,Agent,Chennai,250000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Chennai,51000
+4,Apartment,Furnished,5,Bachelors/Family,2.0,Agent,Chennai,30000
+4,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,75000
+3,Builder Floor,Furnished,3,Bachelors/Family,1.0,Owner,Chennai,68000
+4, House,Unfurnished,4,Bachelors/Family,2.0,Owner,Chennai,30000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Chennai,280000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Agent,Chennai,35000
+4,Villa,Semi-Furnished,3,Family,3.0,Agent,Chennai,120000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,45000
+3,Apartment,Furnished,3,Bachelors,1.0,Owner,Chennai,90000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,130000
+3, House,Unfurnished,3,Bachelors,1.5,Owner,Chennai,28000
+3, House,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Chennai,330000
+3,Villa,Unfurnished,5,Family,3.0,Agent,Chennai,130000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Agent,Chennai,49999
+2,Apartment,Furnished,2,Family,1.0,Agent,Chennai,42000
+3,Apartment,Furnished,3,Family,2.0,Agent,Chennai,190000
+3,Apartment,Furnished,3,Bachelors,2.0,Agent,Chennai,60000
+4,Villa,Furnished,4,Bachelors,1.0,Agent,Chennai,90000
+3,Apartment,Furnished,3,Bachelors,2.0,Agent,Chennai,50000
+3,Apartment,Furnished,3,Bachelors,2.0,Agent,Chennai,45000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Agent,Chennai,34000
+2,Builder Floor,Semi-Furnished,2,Bachelors,2.0,Agent,Chennai,25000
+4,Builder Floor,Semi-Furnished,4,Bachelors,4.0,Agent,Chennai,180000
+4,Penthouse,Semi-Furnished,4,Bachelors,4.0,Agent,Chennai,170000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Agent,Chennai,50000
+4,Villa,Furnished,4,Family,2.0,Agent,Chennai,92500
+6, House,Furnished,5,Bachelors,2.0,Agent,Chennai,250000
+2,Apartment,Furnished,2,Bachelors,1.0,Agent,Chennai,170000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Chennai,120000
+4, House,Semi-Furnished,3,Bachelors,2.0,Agent,Chennai,30000
+1,Apartment,Unfurnished,1,Bachelors,1.0,Owner,Chennai,14999
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Chennai,65000
+3,Builder Floor,Semi-Furnished,3,Bachelors,1.0,Agent,Chennai,60000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Chennai,80000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Agent,Chennai,130000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Chennai,29999
+2,Apartment,Furnished,2,Bachelors/Family,2.0,Agent,Chennai,50000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Chennai,52000
+5, House,Semi-Furnished,5,Bachelors,1.0,Agent,Chennai,40000
+3,Penthouse,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Chennai,10000
+1,Apartment,Semi-Furnished,1,Family,1.0,Agent,Chennai,17000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Chennai,55000
+4,Apartment,Semi-Furnished,3,Family,2.0,Agent,Chennai,90000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Chennai,55000
+4,Villa,Furnished,4,Bachelors/Family,2.0,Agent,Chennai,130000
+3,Apartment,Semi-Furnished,3,Family,4.0,Agent,Chennai,60000
+7, House,Semi-Furnished,9,Bachelors/Family,4.0,Agent,Chennai,350000
+4,Villa,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Chennai,130000
+3,Apartment,Furnished,4,Bachelors/Family,1.0,Agent,Chennai,120000
+4,Villa,Unfurnished,4,Bachelors,2.0,Agent,Chennai,50000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Chennai,33000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Chennai,170000
+3,Apartment,Furnished,2,Family,2.0,Agent,Chennai,40000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Chennai,22000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Agent,Chennai,95000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Chennai,50000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Chennai,25000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Chennai,130000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Chennai,25000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,16000
+2,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Chennai,35000
+4, House,Unfurnished,4,Bachelors/Family,2.0,Agent,Chennai,40000
+1,Apartment,Semi-Furnished,1,Bachelors,1.0,Agent,Chennai,24000
+4,Apartment,Unfurnished,5,Bachelors,3.0,Agent,Chennai,250000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,26000
+2, House,Unfurnished,2,Bachelors,3.0,Owner,Chennai,28000
+2, House,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,23000
+3, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,38000
+3,Apartment,Furnished,3,Family,2.0,Agent,Chennai,55000
+3, House,Unfurnished,3,Bachelors,1.0,Owner,Chennai,35000
+3,Apartment,Furnished,3,Bachelors,2.0,Agent,Chennai,90000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Chennai,46000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,25000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Agent,Chennai,73000
+2, House,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,30000
+3,Villa,Furnished,4,Bachelors,4.0,Owner,Chennai,45000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,20000
+5, House,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Chennai,150000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,3.0,Agent,Chennai,25000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,15000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Chennai,23000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Agent,Chennai,80000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Chennai,85000
+2,Builder Floor,Semi-Furnished,2,Family,1.0,Owner,Chennai,16000
+3,Apartment,Furnished,3,Bachelors,1.0,Agent,Chennai,60000
+2, House,Unfurnished,2,Family,1.0,Agent,Chennai,45000
+3, House,Unfurnished,4,Family,1.0,Owner,Chennai,42000
+1,Apartment,Furnished,1,Bachelors,1.0,Agent,Chennai,25000
+1,Apartment,Furnished,1,Bachelors,1.0,Agent,Chennai,27000
+3,Apartment,Unfurnished,3,Bachelors/Family,3.0,Agent,Chennai,38000
+4,Penthouse,Furnished,5,Bachelors,3.0,Agent,Chennai,140000
+3, House,Semi-Furnished,3,Bachelors,2.0,Agent,Chennai,50000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Chennai,25000
+5, House,Semi-Furnished,5,Family,3.0,Agent,Chennai,150000
+4,Villa,Unfurnished,4,Family,3.0,Owner,Chennai,120000
+3,Apartment,Furnished,3,Bachelors,1.0,Agent,Chennai,10000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Chennai,130000
+2,Builder Floor,Unfurnished,2,Family,1.0,Agent,Chennai,35000
+1,Builder Floor,Semi-Furnished,1,Bachelors/Family,1.0,Agent,Chennai,10000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Agent,Chennai,38000
+2, House,Semi-Furnished,2,Bachelors,1.0,Agent,Chennai,14000
+3, House,Semi-Furnished,2,Family,1.0,Agent,Chennai,30000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,36500
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Chennai,140000
+4, House,Semi-Furnished,5,Family,3.0,Agent,Chennai,40000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,9000
+2, House,Furnished,1,Bachelors,1.0,Owner,Chennai,8500
+2, House,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,25000
+4, House,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Chennai,130000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Chennai,30000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Chennai,32000
+3,Builder Floor,Furnished,3,Family,2.0,Agent,Chennai,10000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Chennai,35000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Chennai,75000
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,10500
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,16000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,25000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,33000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,30000
+2, House,Unfurnished,3,Bachelors,1.0,Owner,Chennai,20000
+2, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,18000
+3,Apartment,Furnished,3,Bachelors/Family,1.0,Owner,Chennai,45000
+2, House,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,13000
+3,Villa,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,42000
+1,Apartment,Unfurnished,1,Bachelors,1.0,Owner,Chennai,6000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,42000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,18000
+2,Builder Floor,Unfurnished,2,Bachelors/Family,2.0,Owner,Chennai,12500
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Chennai,38000
+2, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,25000
+2, House,Semi-Furnished,2,Bachelors/Family,3.0,Owner,Chennai,25000
+3, House,Semi-Furnished,3,Bachelors/Family,1.5,Owner,Chennai,25000
+3,Villa,Furnished,4,Bachelors,2.0,Owner,Chennai,70000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,13000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Chennai,27000
+3, House,Unfurnished,2,Bachelors/Family,1.5,Owner,Chennai,10000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,9500
+4,Apartment,Furnished,4,Bachelors/Family,2.0,Owner,Chennai,7000
+4,Villa,Semi-Furnished,3,Bachelors,2.0,Owner,Chennai,25000
+2, House,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,17000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,28000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,4.0,Owner,Chennai,55000
+2, House,Unfurnished,2,Bachelors/Family,3.0,Owner,Chennai,10000
+3, House,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,15000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,10000
+2, House,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,31500
+2, House,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,25000
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,12000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,22000
+1, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,8000
+3, House,Semi-Furnished,3,Bachelors/Family,1.5,Owner,Chennai,28000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,25000
+2, House,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,11000
+1, House,Unfurnished,1,Bachelors,1.0,Owner,Chennai,7000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,9500
+3, House,Semi-Furnished,2,Bachelors/Family,4.0,Owner,Chennai,20000
+6,Villa,Semi-Furnished,7,Bachelors/Family,2.0,Owner,Chennai,150000
+2, House,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,15000
+3,Apartment,Furnished,4,Bachelors/Family,2.0,Owner,Chennai,37000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,16000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,15000
+3, House,Unfurnished,2,Bachelors/Family,1.5,Owner,Chennai,16000
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,7500
+2,Apartment,Furnished,2,Bachelors,1.0,Owner,Chennai,38000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,35000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Owner,Chennai,40000
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,15000
+2, House,Unfurnished,2,Bachelors/Family,2.0,Owner,Chennai,30000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,45000
+2, House,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,10000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,32000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,16000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,18500
+3, House,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,35000
+2, House,Semi-Furnished,3,Bachelors/Family,4.0,Owner,Chennai,20000
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,12000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,12000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,30000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,7000
+1,Builder Floor,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,6500
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,17000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,14000
+2, House,Semi-Furnished,2,Family,1.0,Owner,Chennai,18000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,23000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,15000
+2,Apartment,Unfurnished,2,Bachelors/Family,2.0,Owner,Chennai,25000
+2, House,Unfurnished,2,Bachelors/Family,2.0,Owner,Chennai,7500
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,35000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,20000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,8500
+1,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,7499
+3,Villa,Furnished,3,Family,1.0,Owner,Chennai,35000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,45000
+3, House,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,30000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,15000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,25000
+4, House,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,30000
+2,Apartment,Furnished,2,Family,2.0,Owner,Chennai,30000
+3,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,35000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,21000
+8,Villa,Furnished,7,Bachelors/Family,3.0,Owner,Chennai,20000
+1, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,7000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,18500
+2,Builder Floor,Furnished,2,Bachelors/Family,2.0,Owner,Chennai,25000
+2,Apartment,Unfurnished,2,Family,1.0,Owner,Chennai,17500
+1,Apartment,Furnished,2,Bachelors/Family,2.0,Owner,Chennai,13000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,30000
+1, House,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,15000
+2, House,Unfurnished,2,Family,1.0,Owner,Chennai,9000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,13000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,15000
+3, House,Furnished,3,Family,2.0,Owner,Chennai,45000
+2, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,11000
+3,Villa,Furnished,3,Bachelors,1.0,Owner,Chennai,65000
+2,Apartment,Furnished,2,Bachelors/Family,2.0,Owner,Chennai,32000
+3,Apartment,Furnished,2,Bachelors,2.0,Owner,Chennai,23000
+1,Apartment,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,20000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,7000
+3,Penthouse,Unfurnished,3,Bachelors/Family,1.0,Owner,Chennai,22000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,13000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,15000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,25000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,18500
+3,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,40000
+3, House,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,23500
+3,Apartment,Semi-Furnished,3,Bachelors,4.0,Owner,Chennai,25000
+2, House,Semi-Furnished,2,Bachelors,2.0,Owner,Chennai,18000
+4,Penthouse,Semi-Furnished,5,Bachelors/Family,4.0,Owner,Chennai,230000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,17000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,60000
+3,Apartment,Semi-Furnished,3,Family,1.0,Owner,Chennai,26000
+1, House,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,8000
+2,Apartment,Unfurnished,2,Bachelors,2.0,Owner,Chennai,11000
+3,Villa,Furnished,4,Bachelors,4.0,Owner,Chennai,150000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,17000
+1,Apartment,Furnished,1,Family,1.0,Owner,Chennai,28000
+3,Villa,Furnished,4,Family,1.0,Owner,Chennai,75000
+4, House,Semi-Furnished,2,Family,1.0,Owner,Chennai,45000
+1,Villa,Unfurnished,1,Family,1.0,Owner,Chennai,6000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,60000
+1,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,40000
+4,Villa,Furnished,3,Bachelors/Family,2.0,Owner,Chennai,30000
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,8000
+1,Builder Floor,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,8500
+3, House,Semi-Furnished,2,Bachelors/Family,3.0,Owner,Chennai,18000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,9000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,9000
+3,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,28000
+1, House,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,13500
+2, House,Furnished,3,Bachelors,1.0,Owner,Chennai,35000
+2,Villa,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,22000
+2,Villa,Furnished,2,Bachelors,2.0,Owner,Chennai,20000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,15000
+2,Builder Floor,Unfurnished,2,Bachelors,2.0,Owner,Chennai,9500
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,16500
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,25000
+3,Apartment,Unfurnished,3,Bachelors/Family,3.0,Owner,Chennai,35000
+2,Apartment,Furnished,2,Family,1.0,Owner,Chennai,55000
+1, House,Unfurnished,1,Bachelors,1.0,Owner,Chennai,8000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,20000
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,15000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,55000
+2,Apartment,Furnished,2,Bachelors,2.0,Owner,Chennai,100000
+4, House,Furnished,4,Bachelors/Family,1.0,Owner,Chennai,50000
+2,Apartment,Furnished,2,Bachelors/Family,2.0,Owner,Chennai,24000
+1,Apartment,Unfurnished,1,Bachelors,1.0,Owner,Chennai,15000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,150000
+1, House,Furnished,2,Bachelors,1.0,Owner,Chennai,19000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,23000
+2,Apartment,Semi-Furnished,2,Bachelors,3.0,Owner,Chennai,30000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,15000
+1,Apartment,Furnished,1,Bachelors,1.0,Owner,Chennai,10000
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,15000
+2,Villa,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,9000
+1, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,12500
+2, House,Furnished,3,Bachelors/Family,1.0,Owner,Chennai,11000
+1,Apartment,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,25000
+3,Builder Floor,Semi-Furnished,2,Bachelors/Family,3.0,Owner,Chennai,32000
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,7000
+3,Apartment,Semi-Furnished,3,Family,1.0,Owner,Chennai,60000
+3, House,Unfurnished,3,Bachelors/Family,1.0,Owner,Chennai,40000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,35000
+2, House,Semi-Furnished,2,Family,1.0,Owner,Chennai,25000
+3,Villa,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,22000
+2, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,14000
+3,Builder Floor,Semi-Furnished,3,Family,2.0,Owner,Chennai,20000
+3,Villa,Unfurnished,4,Bachelors/Family,2.0,Owner,Chennai,20000
+2,Apartment,Unfurnished,3,Bachelors,1.0,Owner,Chennai,9000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,15000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,12000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,18000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,25000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,14000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,30000
+2, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,10000
+3,Apartment,Furnished,3,Bachelors,3.0,Owner,Chennai,40000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,7000
+4, House,Unfurnished,4,Bachelors/Family,2.0,Owner,Chennai,16000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,11000
+1, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,5800
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,6000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,50000
+1, House,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,11000
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,7000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,10000
+2,Villa,Unfurnished,2,Bachelors,2.0,Owner,Chennai,20000
+1, House,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,18500
+2,Villa,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,10000
+3, House,Semi-Furnished,4,Bachelors/Family,1.5,Owner,Chennai,35000
+2,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,35000
+1, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,10000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,30000
+4,Villa,Semi-Furnished,4,Bachelors/Family,1.0,Owner,Chennai,55000
+2,Apartment,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,16000
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,10000
+1, House,Unfurnished,1,Bachelors,1.0,Owner,Chennai,6000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,29500
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Owner,Chennai,40000
+2,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,8200
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,650000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,13000
+3, House,Unfurnished,3,Bachelors/Family,1.0,Owner,Chennai,18000
+3,Apartment,Unfurnished,3,Bachelors,1.0,Owner,Chennai,32000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,12000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,12000
+2,Apartment,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,10000
+3,Villa,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,30000
+3, House,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,45000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,15000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Owner,Chennai,22000
+2,Villa,Furnished,2,Bachelors,1.0,Owner,Chennai,27000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Owner,Chennai,42000
+5, House,Furnished,3,Bachelors/Family,2.0,Owner,Chennai,20000
+1,Apartment,Unfurnished,1,Bachelors,1.0,Owner,Chennai,7000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,10000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,11000
+3,Apartment,Furnished,2,Bachelors,2.0,Owner,Chennai,45000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,8000
+2,Villa,Unfurnished,3,Bachelors/Family,1.0,Owner,Chennai,9000
+5, House,Furnished,6,Bachelors/Family,2.0,Owner,Chennai,140000
+2, House,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,22000
+2,Builder Floor,Unfurnished,2,Bachelors/Family,2.0,Owner,Chennai,20000
+1, House,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,15000
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,3500
+3, House,Semi-Furnished,3,Bachelors/Family,1.5,Owner,Chennai,38000
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,10000
+1, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,12000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,15000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,20000
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,4000
+2,Builder Floor,Unfurnished,2,Family,2.0,Owner,Chennai,14000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,16000
+3, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,20000
+1,Builder Floor,Unfurnished,1,Bachelors,1.0,Owner,Chennai,20000
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,10500
+1, House,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,30000
+4,Apartment,Unfurnished,4,Bachelors/Family,1.0,Owner,Chennai,27500
+3,Apartment,Furnished,2,Bachelors,2.0,Owner,Chennai,30000
+2,Apartment,Semi-Furnished,2,Family,2.0,Owner,Chennai,12000
+2, House,Unfurnished,3,Bachelors/Family,1.0,Owner,Chennai,18000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,35000
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,10000
+2, House,Unfurnished,2,Family,1.0,Owner,Chennai,15000
+2,Builder Floor,Semi-Furnished,1,Bachelors/Family,2.0,Owner,Chennai,22000
+3,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,24000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,22000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,16000
+1, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,8000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,140000
+4,Builder Floor,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,45800
+1,Villa,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,5000
+3, House,Unfurnished,1,Bachelors,1.5,Owner,Chennai,14000
+2,Apartment,Furnished,2,Bachelors,1.0,Owner,Chennai,40000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,23500
+2,Apartment,Furnished,2,Family,1.0,Owner,Chennai,350000
+1, House,Unfurnished,1,Family,1.0,Owner,Chennai,14000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,50000
+1,Apartment,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,13000
+2,Villa,Furnished,3,Bachelors/Family,2.0,Owner,Chennai,80000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,22000
+2,Builder Floor,Unfurnished,2,Bachelors/Family,2.0,Owner,Chennai,19000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,40000
+2,Villa,Unfurnished,2,Bachelors,1.0,Owner,Chennai,13000
+4, House,Semi-Furnished,5,Family,2.0,Owner,Chennai,150000
+2,Apartment,Furnished,2,Bachelors,1.0,Owner,Chennai,36000
+2,Villa,Semi-Furnished,3,Bachelors,2.0,Owner,Chennai,30000
+6, House,Semi-Furnished,5,Bachelors,2.0,Owner,Chennai,29000
+4,Villa,Semi-Furnished,4,Bachelors,1.0,Owner,Chennai,52000
+2,Villa,Unfurnished,2,Bachelors,1.0,Owner,Chennai,16000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,30000
+2, House,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,28000
+2,Builder Floor,Unfurnished,2,Bachelors,2.0,Owner,Chennai,25000
+3, House,Furnished,3,Family,1.5,Owner,Chennai,12000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,45000
+2, House,Unfurnished,3,Family,1.0,Owner,Chennai,22000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,23000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,12000
+4,Villa,Unfurnished,6,Bachelors/Family,4.0,Owner,Chennai,270000
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,8000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,10000
+2, House,Furnished,2,Bachelors,1.0,Owner,Chennai,17500
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,17000
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,7500
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Chennai,23000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,1.0,Owner,Chennai,32000
+1, House,Semi-Furnished,1,Bachelors,1.0,Owner,Chennai,11000
+3,Apartment,Furnished,3,Bachelors,2.0,Owner,Chennai,29000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,22000
+2, House,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,23000
+4,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,60000
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,5800
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,13000
+1, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,5000
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Chennai,8500
+4, House,Unfurnished,3,Bachelors/Family,1.0,Owner,Chennai,78000
+3, House,Furnished,3,Bachelors/Family,1.0,Owner,Chennai,45000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,35000
+3, House,Semi-Furnished,6,Family,2.0,Owner,Chennai,30000
+3,Apartment,Semi-Furnished,3,Family,1.0,Owner,Chennai,55000
+2, House,Unfurnished,1,Bachelors,1.0,Owner,Chennai,12000
+1,Apartment,Furnished,1,Bachelors,1.0,Owner,Chennai,20000
+3,Villa,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Chennai,130000
+3,Apartment,Unfurnished,3,Family,1.0,Owner,Chennai,35000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Chennai,55000
+4,Villa,Furnished,4,Bachelors,1.0,Owner,Chennai,36000
+3,Apartment,Unfurnished,3,Bachelors,1.0,Owner,Chennai,28000
+2,Villa,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,28000
+3, House,Semi-Furnished,3,Bachelors/Family,1.5,Owner,Chennai,30000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,32000
+2,Builder Floor,Unfurnished,2,Bachelors/Family,2.0,Owner,Chennai,18000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,26000
+2, House,Semi-Furnished,2,Family,1.0,Owner,Chennai,10000
+2,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Chennai,75000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Owner,Chennai,90000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Chennai,50000
+2, House,Furnished,2,Bachelors,1.0,Owner,Chennai,15000
+3,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,35000
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,17000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,15000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Owner,Chennai,27000
+1,Builder Floor,Furnished,1,Bachelors,1.0,Owner,Chennai,16000
+3,Builder Floor,Unfurnished,3,Bachelors,1.0,Owner,Chennai,52000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Owner,Chennai,23000
+3,Villa,Unfurnished,3,Bachelors/Family,2.0,Owner,Chennai,53000
+2,Villa,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,14000
+2, House,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,18500
+2,Apartment,Furnished,2,Bachelors/Family,2.0,Owner,Chennai,13500
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Chennai,15000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,25000
+3, House,Semi-Furnished,2,Bachelors/Family,1.5,Owner,Chennai,30000
+1, House,Furnished,1,Bachelors,1.0,Owner,Chennai,17500
+2,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Chennai,35000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Chennai,21000
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,8000
+2, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,12000
+2, House,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Chennai,15000
+1, House,Unfurnished,2,Bachelors/Family,1.0,Owner,Chennai,8500
+2,Apartment,Unfurnished,2,Bachelors,1.0,Owner,Chennai,9500
+2, House,Unfurnished,1,Bachelors/Family,1.0,Owner,Chennai,8500
+2,Flat ,Semi-Furnished,2,Family,2.0,Owner,Gurgaon,69000
+4,Flat ,Semi-Furnished,5,Family,2.0,Owner,Gurgaon,160000
+3,Flat ,Semi-Furnished,3,Family,2.0,Agent,Gurgaon,65000
+3,Flat ,Unfurnished,3,Bachelors,2.0,Agent,Gurgaon,53000
+4,Flat ,Semi-Furnished,5,Bachelors/Family,4.0,Agent,Gurgaon,350000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,40000
+3,Flat ,Semi-Furnished,3,Family,2.0,Agent,Gurgaon,45000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,70000
+3,Flat ,Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,77000
+3,Flat ,Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,150000
+4,Flat ,Semi-Furnished,4,Bachelors/Family,3.0,Owner,Gurgaon,160000
+4,Flat ,Semi-Furnished,4,Family,3.0,Agent,Gurgaon,130000
+4,Flat ,Semi-Furnished,4,Bachelors,4.0,Owner,Gurgaon,75000
+3,Flat ,Semi-Furnished,4,Family,2.0,Agent,Gurgaon,55000
+2,Flat ,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Gurgaon,52000
+4,Flat ,Furnished,4,Family,3.0,Agent,Gurgaon,150000
+4,Flat ,Semi-Furnished,4,Family,3.0,Agent,Gurgaon,110000
+4,Flat ,Unfurnished,4,Bachelors/Family,4.0,Agent,Gurgaon,170000
+4,Flat ,Unfurnished,4,Bachelors/Family,4.0,Agent,Gurgaon,160000
+3,Flat ,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,70000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,95000
+3,Flat ,Semi-Furnished,3,Bachelors,3.0,Owner,Gurgaon,70000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,60000
+4,Flat ,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,130000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,58000
+3,Flat ,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,47000
+2,Flat ,Semi-Furnished,2,Bachelors/Family,3.0,Agent,Gurgaon,50000
+3,Flat ,Semi-Furnished,3,Family,4.0,Owner,Gurgaon,45000
+4,Flat ,Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,65000
+3,Apartment,Semi-Furnished,2,Bachelors,3.0,Owner,Gurgaon,50000
+4,Builder Floor,Semi-Furnished,4,Bachelors,2.0,Agent,Gurgaon,130000
+4,Builder Floor,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,35000
+4,Apartment,Semi-Furnished,4,Family,10.0,Agent,Gurgaon,40000
+3,Apartment,Furnished,4,Family,4.0,Agent,Gurgaon,140000
+3,Apartment,Semi-Furnished,2,Family,3.0,Agent,Gurgaon,48000
+3,Apartment,Semi-Furnished,4,Family,3.0,Agent,Gurgaon,60000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Owner,Gurgaon,54000
+5,Villa,Semi-Furnished,6,Bachelors/Family,5.0,Agent,Gurgaon,30000
+3,Builder Floor,Furnished,3,Bachelors,2.0,Agent,Gurgaon,10000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Gurgaon,110000
+4,Builder Floor,Semi-Furnished,4,Family,4.0,Agent,Gurgaon,180000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,35000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,10000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,55000
+4,Villa,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,150000
+4,Builder Floor,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,130000
+3,Builder Floor,Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,65000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,30000
+2,Builder Floor,Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,32000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,34500
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,39000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,38000
+3,Apartment,Semi-Furnished,4,Family,3.0,Agent,Gurgaon,80000
+3,Apartment,Semi-Furnished,5,Bachelors/Family,2.0,Agent,Gurgaon,190000
+2,Apartment,Furnished,2,Bachelors/Family,3.0,Agent,Gurgaon,65000
+4,Villa,Semi-Furnished,4,Family,5.0,Agent,Gurgaon,130000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,5.0,Agent,Gurgaon,350000
+4,Apartment,Semi-Furnished,5,Family,3.0,Agent,Gurgaon,65000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,57000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,3.0,Agent,Gurgaon,40000
+2,Apartment,Semi-Furnished,3,Family,3.0,Owner,Gurgaon,70000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,25000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,80000
+4,Apartment,Furnished,4,Family,5.0,Agent,Gurgaon,150000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,70000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,160000
+3,Builder Floor,Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,110000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,42000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,110000
+3,Apartment,Semi-Furnished,4,Bachelors,3.0,Agent,Gurgaon,140000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,45000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,75000
+3,Builder Floor,Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,65000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,36000
+3,Apartment,Semi-Furnished,5,Bachelors,2.0,Agent,Gurgaon,120000
+4,Apartment,Unfurnished,4,Bachelors/Family,4.0,Agent,Gurgaon,180000
+4,Builder Floor,Semi-Furnished,4,Bachelors,2.0,Agent,Gurgaon,180000
+6,Penthouse,Semi-Furnished,7,Bachelors,5.0,Agent,Gurgaon,120000
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,55000
+4,Builder Floor,Unfurnished,5,Family,2.0,Agent,Gurgaon,160000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,80000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,70000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,62000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,160000
+3,Apartment,Unfurnished,3,Bachelors/Family,3.0,Agent,Gurgaon,68000
+3,Apartment,Semi-Furnished,4,Family,3.0,Agent,Gurgaon,110000
+3,Apartment,Semi-Furnished,3,Family,5.0,Agent,Gurgaon,65000
+4,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,60000
+5, House,Furnished,7,Bachelors/Family,4.0,Agent,Gurgaon,350000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,290000
+4,Apartment,Semi-Furnished,4,Family,4.0,Agent,Gurgaon,66000
+4,Builder Floor,Furnished,5,Bachelors,2.0,Agent,Gurgaon,250000
+4,Apartment,Furnished,3,Bachelors/Family,4.0,Agent,Gurgaon,60000
+3,Apartment,Unfurnished,3,Bachelors/Family,3.0,Agent,Gurgaon,45000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,190000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,53000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Owner,Gurgaon,43000
+3,Apartment,Unfurnished,3,Family,4.0,Agent,Gurgaon,40000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,5.0,Agent,Gurgaon,160000
+2,Apartment,Unfurnished,2,Bachelors,2.0,Agent,Gurgaon,44000
+2,Apartment,Furnished,2,Bachelors/Family,2.0,Owner,Gurgaon,45000
+2,Apartment,Semi-Furnished,2,Family,2.0,Agent,Gurgaon,65000
+3,Apartment,Unfurnished,3,Bachelors/Family,3.0,Agent,Gurgaon,40000
+5,Villa,Semi-Furnished,5,Bachelors/Family,4.0,Agent,Gurgaon,160000
+3,Apartment,Semi-Furnished,3,Family,4.0,Agent,Gurgaon,42000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,53000
+3,Builder Floor,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,50000
+3,Builder Floor,Semi-Furnished,3,Family,1.0,Agent,Gurgaon,45000
+3,Apartment,Semi-Furnished,3,Family,4.0,Agent,Gurgaon,30000
+3,Apartment,Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,250000
+3,Apartment,Furnished,3,Bachelors/Family,4.0,Agent,Gurgaon,50000
+3,Apartment,Semi-Furnished,4,Bachelors,4.0,Owner,Gurgaon,45000
+1,Apartment,Furnished,1,Bachelors/Family,1.0,Agent,Gurgaon,75000
+4,Apartment,Unfurnished,5,Bachelors,4.0,Agent,Gurgaon,330000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,40000
+3,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,80000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,4.0,Agent,Gurgaon,82000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,95000
+3,Apartment,Semi-Furnished,4,Family,4.0,Agent,Gurgaon,80000
+10, House,Semi-Furnished,10,Bachelors/Family,7.0,Owner,Gurgaon,70000
+3,Apartment,Furnished,3,Bachelors,1.0,Owner,Gurgaon,60000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,38000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,3.0,Agent,Gurgaon,180000
+4,Apartment,Semi-Furnished,3,Family,2.0,Agent,Gurgaon,64500
+2,Apartment,Unfurnished,2,Bachelors/Family,4.0,Agent,Gurgaon,40000
+2,Apartment,Unfurnished,2,Bachelors/Family,2.0,Owner,Gurgaon,17000
+3,Apartment,Semi-Furnished,2,Family,2.0,Agent,Gurgaon,62000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,76000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,60000
+4,Apartment,Semi-Furnished,6,Bachelors,4.0,Agent,Gurgaon,320000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,40000
+3,Apartment,Semi-Furnished,4,Bachelors,3.0,Owner,Gurgaon,75000
+4,Apartment,Furnished,5,Bachelors/Family,4.0,Owner,Gurgaon,85000
+1, House,Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,39000
+2,Apartment,Unfurnished,2,Bachelors/Family,2.0,Agent,Gurgaon,13500
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,55000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,45000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,20000
+3, House,Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,60000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,3.0,Agent,Gurgaon,39000
+4,Apartment,Semi-Furnished,5,Bachelors,4.0,Owner,Gurgaon,130000
+3,Apartment,Semi-Furnished,3,Family,3.0,Owner,Gurgaon,40000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,48000
+2, House,Semi-Furnished,2,Bachelors,1.0,Owner,Gurgaon,32000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Owner,Gurgaon,150000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Gurgaon,40000
+1,Apartment,Furnished,1,Bachelors,1.0,Owner,Gurgaon,13000
+4,Builder Floor,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Gurgaon,130000
+4,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Owner,Gurgaon,55000
+4,Builder Floor,Furnished,5,Family,2.0,Owner,Gurgaon,140000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Owner,Gurgaon,50000
+4,Apartment,Furnished,4,Bachelors/Family,3.0,Owner,Gurgaon,75000
+2,Apartment,Furnished,2,Bachelors/Family,2.0,Owner,Gurgaon,17000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Owner,Gurgaon,25000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,5.0,Agent,Gurgaon,49000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,22500
+1,Apartment,Unfurnished,1,Bachelors/Family,1.0,Owner,Gurgaon,40000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Owner,Gurgaon,48000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,75000
+4,Apartment,Semi-Furnished,5,Family,3.0,Agent,Gurgaon,290000
+2,Builder Floor,Furnished,2,Bachelors,2.0,Agent,Gurgaon,45000
+2,Apartment,Unfurnished,2,Bachelors,2.0,Agent,Gurgaon,13000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,59000
+3,Builder Floor,Semi-Furnished,4,Family,2.0,Agent,Gurgaon,110000
+3,Apartment,Unfurnished,3,Bachelors,5.0,Owner,Gurgaon,75000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,4.0,Owner,Gurgaon,45000
+3,Apartment,Furnished,3,Bachelors,3.0,Owner,Gurgaon,98000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Owner,Gurgaon,42000
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,60000
+3,Apartment,Furnished,3,Family,3.0,Owner,Gurgaon,80000
+3,Apartment,Unfurnished,2,Bachelors/Family,2.0,Owner,Gurgaon,23000
+3,Apartment,Semi-Furnished,3,Bachelors,5.0,Owner,Gurgaon,33000
+3,Builder Floor,Semi-Furnished,4,Bachelors/Family,4.0,Owner,Gurgaon,130000
+4,Builder Floor,Unfurnished,4,Bachelors/Family,4.0,Owner,Gurgaon,90000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,66000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Agent,Gurgaon,45000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,4.0,Agent,Gurgaon,130000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,350000
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,80000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,30000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,30000
+4,Apartment,Unfurnished,4,Family,5.0,Agent,Gurgaon,650000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,90000
+3,Apartment,Semi-Furnished,2,Family,3.0,Agent,Gurgaon,31000
+3,Apartment,Semi-Furnished,4,Family,4.0,Agent,Gurgaon,150000
+4,Apartment,Unfurnished,4,Bachelors,3.0,Owner,Gurgaon,95000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Owner,Gurgaon,50000
+1, House,Semi-Furnished,1,Bachelors,2.0,Owner,Gurgaon,25000
+3,Builder Floor,Unfurnished,3,Bachelors/Family,4.0,Owner,Gurgaon,33000
+6, House,Semi-Furnished,4,Bachelors,4.0,Owner,Gurgaon,250000
+4,Builder Floor,Semi-Furnished,5,Family,3.0,Owner,Gurgaon,20000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,120000
+3,Builder Floor,Semi-Furnished,3,Bachelors,3.0,Owner,Gurgaon,10000
+3,Apartment,Unfurnished,4,Bachelors,4.0,Owner,Gurgaon,42000
+1,Builder Floor,Furnished,1,Bachelors/Family,1.0,Owner,Gurgaon,35000
+1, House,Furnished,1,Bachelors/Family,2.0,Owner,Gurgaon,38000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Gurgaon,32000
+5,Apartment,Semi-Furnished,6,Bachelors/Family,3.0,Owner,Gurgaon,230000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Gurgaon,30000
+4,Apartment,Furnished,4,Bachelors/Family,3.0,Owner,Gurgaon,85000
+4,Apartment,Semi-Furnished,4,Bachelors,3.0,Owner,Gurgaon,170000
+3,Builder Floor,Furnished,3,Bachelors,2.0,Owner,Gurgaon,85000
+3,Builder Floor,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,65000
+3,Builder Floor,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,45000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,56000
+3, House,Semi-Furnished,3,Bachelors,1.5,Owner,Gurgaon,50000
+4,Builder Floor,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,65000
+3,Apartment,Semi-Furnished,5,Bachelors,2.0,Owner,Gurgaon,130000
+3,Apartment,Semi-Furnished,3,Bachelors,4.0,Agent,Gurgaon,60000
+3,Apartment,Unfurnished,3,Bachelors,4.0,Agent,Gurgaon,49000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,38000
+4,Villa,Furnished,4,Family,4.0,Agent,Gurgaon,50000
+3,Builder Floor,Furnished,3,Bachelors/Family,1.0,Agent,Gurgaon,80000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Agent,Gurgaon,38000
+4,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,70000
+2,Apartment,Furnished,2,Bachelors/Family,4.0,Owner,Gurgaon,75000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,3.0,Owner,Gurgaon,110000
+3,Apartment,Unfurnished,4,Bachelors,3.0,Owner,Gurgaon,95000
+3,Apartment,Semi-Furnished,3,Family,1.0,Owner,Gurgaon,75000
+4,Builder Floor,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,210000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,36000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,54500
+4,Apartment,Furnished,5,Bachelors,4.0,Agent,Gurgaon,30000
+2,Apartment,Semi-Furnished,2,Bachelors,3.0,Agent,Gurgaon,25000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Owner,Gurgaon,130000
+3, House,Furnished,2,Bachelors/Family,2.0,Owner,Gurgaon,40000
+4,Apartment,Unfurnished,4,Bachelors,1.0,Owner,Gurgaon,85000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,150000
+1, House,Furnished,1,Bachelors/Family,1.0,Owner,Gurgaon,14000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,50000
+5, House,Semi-Furnished,6,Family,3.0,Agent,Gurgaon,20000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,27000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,70000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,52000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,45000
+4,Apartment,Semi-Furnished,4,Family,3.0,Agent,Gurgaon,65000
+2,Apartment,Furnished,2,Bachelors,2.0,Agent,Gurgaon,25000
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,88000
+3,Apartment,Semi-Furnished,2,Bachelors,4.0,Agent,Gurgaon,15000
+3,Apartment,Furnished,3,Family,3.0,Agent,Gurgaon,28500
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,30000
+1,Builder Floor,Furnished,1,Bachelors,1.0,Agent,Gurgaon,32000
+3, House,Furnished,1,Bachelors,2.0,Owner,Gurgaon,85000
+4,Builder Floor,Semi-Furnished,5,Bachelors,2.0,Agent,Gurgaon,270000
+3,Builder Floor,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,25000
+4,Apartment,Semi-Furnished,5,Family,3.0,Agent,Gurgaon,220000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,60000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,42000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,120000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,60000
+3,Apartment,Semi-Furnished,3,Bachelors,4.0,Agent,Gurgaon,50000
+3,Apartment,Furnished,2,Bachelors/Family,3.0,Agent,Gurgaon,65000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,38000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,53000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,35000
+4,Apartment,Furnished,4,Family,4.0,Agent,Gurgaon,53000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Gurgaon,99500
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,65000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,28000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,230000
+3,Apartment,Semi-Furnished,3,Bachelors,4.0,Agent,Gurgaon,35000
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,85000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Agent,Gurgaon,75000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,60000
+2,Apartment,Unfurnished,2,Bachelors/Family,3.0,Agent,Gurgaon,15500
+4,Apartment,Semi-Furnished,4,Bachelors,2.0,Agent,Gurgaon,170000
+5,Apartment,Semi-Furnished,5,Family,4.0,Agent,Gurgaon,260000
+4,Apartment,Unfurnished,4,Bachelors,2.0,Owner,Gurgaon,170000
+2,Builder Floor,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Gurgaon,32000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Gurgaon,55000
+1,Builder Floor,Furnished,1,Bachelors/Family,1.0,Agent,Gurgaon,30000
+4,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,64000
+4,Apartment,Semi-Furnished,6,Bachelors/Family,4.0,Agent,Gurgaon,350000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,4.0,Agent,Gurgaon,22000
+4,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,150000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Agent,Gurgaon,23000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,2.0,Agent,Gurgaon,580000
+5,Builder Floor,Unfurnished,5,Bachelors,5.0,Owner,Gurgaon,110000
+4,Villa,Semi-Furnished,4,Family,2.0,Agent,Gurgaon,110000
+4,Apartment,Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,85000
+4,Apartment,Unfurnished,3,Bachelors,3.0,Owner,Gurgaon,43000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Owner,Gurgaon,67500
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Owner,Gurgaon,5000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,3.0,Owner,Gurgaon,40000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,3.0,Agent,Gurgaon,46000
+3,Builder Floor,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Gurgaon,110000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Owner,Gurgaon,15000
+3,Apartment,Unfurnished,3,Bachelors/Family,1.0,Owner,Gurgaon,80000
+4,Apartment,Semi-Furnished,3,Family,4.0,Agent,Gurgaon,80000
+3,Apartment,Unfurnished,3,Family,3.0,Agent,Gurgaon,120000
+3,Builder Floor,Furnished,3,Bachelors,2.0,Owner,Gurgaon,60000
+5,Penthouse,Unfurnished,5,Bachelors,5.0,Owner,Gurgaon,120000
+3,Apartment,Unfurnished,2,Bachelors,3.0,Owner,Gurgaon,35000
+2,Apartment,Semi-Furnished,2,Bachelors,3.0,Agent,Gurgaon,42000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Agent,Gurgaon,17000
+4,Builder Floor,Semi-Furnished,5,Family,4.0,Owner,Gurgaon,230000
+4,Penthouse,Semi-Furnished,5,Bachelors/Family,3.5,Owner,Gurgaon,450000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,65000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,65000
+1, House,Semi-Furnished,1,Bachelors/Family,1.0,Agent,Gurgaon,19000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,50000
+3,Apartment,Unfurnished,4,Bachelors/Family,3.0,Agent,Gurgaon,140000
+4,Apartment,Furnished,5,Bachelors,3.0,Owner,Gurgaon,250000
+3,Apartment,Furnished,4,Bachelors/Family,2.0,Owner,Gurgaon,40000
+3,Apartment,Furnished,4,Bachelors/Family,4.0,Owner,Gurgaon,47000
+4,Builder Floor,Semi-Furnished,5,Bachelors/Family,3.0,Agent,Gurgaon,130000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,50000
+3,Builder Floor,Semi-Furnished,3,Bachelors,1.0,Agent,Gurgaon,44000
+3,Builder Floor,Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,70000
+2,Apartment,Furnished,2,Bachelors,1.0,Agent,Gurgaon,35000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,46000
+3,Apartment,Unfurnished,4,Bachelors/Family,3.0,Agent,Gurgaon,42000
+7, House,Semi-Furnished,6,Bachelors/Family,4.0,Owner,Gurgaon,30000
+3,Apartment,Semi-Furnished,3,Family,4.0,Agent,Gurgaon,70000
+3,Apartment,Unfurnished,4,Bachelors,3.0,Agent,Gurgaon,140000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Owner,Gurgaon,75000
+3,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,80000
+4, House,Semi-Furnished,4,Bachelors/Family,4.0,Owner,Gurgaon,55000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,45000
+3,Builder Floor,Semi-Furnished,3,Family,2.0,Agent,Gurgaon,50000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Agent,Gurgaon,59000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,35000
+3,Apartment,Unfurnished,4,Bachelors,2.0,Owner,Gurgaon,120000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,70000
+1,Apartment,Unfurnished,1,Bachelors/Family,1.0,Agent,Gurgaon,13000
+4,Apartment,Furnished,3,Bachelors,3.0,Owner,Gurgaon,48000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,42000
+3,Builder Floor,Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,90000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Gurgaon,31000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,60000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,34000
+3,Builder Floor,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,65000
+3,Builder Floor,Unfurnished,2,Bachelors,1.0,Owner,Gurgaon,26000
+2,Builder Floor,Unfurnished,2,Bachelors,2.0,Agent,Gurgaon,45000
+1,Builder Floor,Furnished,1,Bachelors/Family,1.0,Agent,Gurgaon,25000
+3,Builder Floor,Semi-Furnished,4,Bachelors,3.0,Owner,Gurgaon,90000
+3,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,20000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,37000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,58000
+2,Builder Floor,Semi-Furnished,2,Bachelors,2.0,Agent,Gurgaon,30000
+3, House,Furnished,4,Bachelors/Family,2.0,Agent,Gurgaon,150000
+4,Apartment,Semi-Furnished,5,Bachelors,5.0,Agent,Gurgaon,250000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,40000
+4,Apartment,Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,65000
+3,Builder Floor,Unfurnished,3,Bachelors,2.0,Agent,Gurgaon,75000
+3,Builder Floor,Unfurnished,3,Bachelors,2.0,Owner,Gurgaon,120000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Gurgaon,49000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,4.0,Agent,Gurgaon,28500
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,55000
+4,Apartment,Furnished,4,Bachelors/Family,3.0,Agent,Gurgaon,210000
+1,Builder Floor,Furnished,1,Bachelors,10.0,Owner,Gurgaon,30000
+4,Builder Floor,Unfurnished,4,Bachelors,4.0,Agent,Gurgaon,52000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,70000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,90000
+2,Builder Floor,Furnished,2,Bachelors,2.0,Agent,Gurgaon,38000
+3,Apartment,Furnished,3,Bachelors/Family,3.0,Owner,Gurgaon,72000
+3,Villa,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,70000
+1,Builder Floor,Furnished,1,Bachelors/Family,1.0,Agent,Gurgaon,42500
+3,Builder Floor,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,55000
+3,Apartment,Unfurnished,3,Family,3.0,Agent,Gurgaon,62000
+3,Builder Floor,Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,40000
+4,Apartment,Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,230000
+4,Builder Floor,Semi-Furnished,4,Bachelors/Family,1.0,Agent,Gurgaon,130000
+2,Apartment,Furnished,2,Family,3.0,Agent,Gurgaon,91000
+3,Apartment,Semi-Furnished,4,Bachelors,4.0,Agent,Gurgaon,50000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,32000
+2,Apartment,Unfurnished,2,Bachelors,10.0,Agent,Gurgaon,50000
+3, House,Semi-Furnished,2,Family,2.0,Agent,Gurgaon,46500
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,55200
+4,Villa,Semi-Furnished,3,Bachelors,3.0,Owner,Gurgaon,51000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,38500
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Owner,Gurgaon,110000
+3,Builder Floor,Unfurnished,3,Bachelors,2.0,Owner,Gurgaon,10000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Agent,Gurgaon,40000
+3,Apartment,Furnished,4,Bachelors,4.0,Owner,Gurgaon,90000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,1.0,Owner,Gurgaon,130000
+3,Apartment,Semi-Furnished,3,Bachelors,4.0,Owner,Gurgaon,60000
+3,Apartment,Semi-Furnished,3,Bachelors,4.0,Owner,Gurgaon,52000
+4,Apartment,Semi-Furnished,4,Family,4.0,Owner,Gurgaon,75000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,4.0,Owner,Gurgaon,70000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,2.0,Owner,Gurgaon,180000
+3,Apartment,Furnished,4,Bachelors,4.0,Owner,Gurgaon,130000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Agent,Gurgaon,32500
+3,Apartment,Semi-Furnished,3,Bachelors/Family,2.0,Owner,Gurgaon,35000
+4,Apartment,Semi-Furnished,5,Bachelors/Family,3.0,Owner,Gurgaon,40000
+3,Apartment,Semi-Furnished,4,Bachelors,4.0,Owner,Gurgaon,65000
+6,Villa,Semi-Furnished,5,Bachelors,4.0,Owner,Gurgaon,190000
+2,Apartment,Furnished,2,Bachelors/Family,4.0,Owner,Gurgaon,18000
+4,Villa,Furnished,5,Bachelors/Family,4.0,Owner,Gurgaon,10000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Agent,Gurgaon,49500
+5,Builder Floor,Semi-Furnished,6,Bachelors/Family,3.0,Owner,Gurgaon,20000
+3,Apartment,Furnished,4,Bachelors,3.0,Owner,Gurgaon,110000
+3,Builder Floor,Semi-Furnished,4,Family,2.0,Owner,Gurgaon,70000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,3.0,Owner,Gurgaon,60000
+4,Builder Floor,Semi-Furnished,4,Bachelors,2.0,Owner,Gurgaon,140000
+4,Villa,Unfurnished,4,Bachelors,4.0,Owner,Gurgaon,270000
+2,Apartment,Unfurnished,2,Bachelors,4.0,Owner,Gurgaon,18000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,85000
+4,Apartment,Semi-Furnished,4,Family,3.0,Agent,Gurgaon,160000
+4,Builder Floor,Furnished,4,Bachelors,3.0,Agent,Gurgaon,65000
+4,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,50000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Owner,Gurgaon,75000
+2,Apartment,Furnished,2,Bachelors,2.0,Agent,Gurgaon,35000
+2, House,Furnished,2,Bachelors,1.0,Owner,Gurgaon,25000
+4,Apartment,Semi-Furnished,4,Family,3.0,Agent,Gurgaon,310000
+4,Builder Floor,Semi-Furnished,4,Bachelors,2.0,Agent,Gurgaon,85000
+1,Builder Floor,Furnished,1,Bachelors/Family,1.0,Owner,Gurgaon,30000
+4,Apartment,Furnished,4,Bachelors/Family,3.0,Owner,Gurgaon,230000
+4,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,46000
+4,Builder Floor,Semi-Furnished,4,Bachelors,2.0,Agent,Gurgaon,10000
+4,Apartment,Semi-Furnished,4,Bachelors,3.0,Owner,Gurgaon,67000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,4.0,Owner,Gurgaon,34000
+2,Builder Floor,Furnished,2,Bachelors,2.0,Agent,Gurgaon,35000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,38000
+2,Builder Floor,Furnished,2,Bachelors,2.0,Agent,Gurgaon,52000
+3,Builder Floor,Semi-Furnished,3,Bachelors/Family,2.0,Agent,Gurgaon,50000
+4,Builder Floor,Semi-Furnished,5,Bachelors/Family,2.0,Agent,Gurgaon,160000
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Owner,Gurgaon,150000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,3.0,Agent,Gurgaon,120000
+3,Apartment,Semi-Furnished,2,Bachelors/Family,3.0,Agent,Gurgaon,38000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Gurgaon,48000
+2,Apartment,Unfurnished,2,Bachelors,2.0,Agent,Gurgaon,13500
+5,Apartment,Semi-Furnished,5,Bachelors,3.0,Agent,Gurgaon,260000
+3,Builder Floor,Semi-Furnished,3,Bachelors,2.0,Agent,Gurgaon,50000
+3,Apartment,Semi-Furnished,2,Family,2.0,Agent,Gurgaon,24000
+2,Builder Floor,Furnished,2,Bachelors,2.0,Agent,Gurgaon,42000
+4,Apartment,Furnished,3,Family,8.0,Agent,Gurgaon,65000
+3,Apartment,Furnished,4,Bachelors,4.0,Agent,Gurgaon,250000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,32000
+1,Builder Floor,Furnished,2,Bachelors/Family,2.0,Agent,Gurgaon,35000
+3,Builder Floor,Semi-Furnished,3,Bachelors,3.0,Agent,Gurgaon,65000
+4,Apartment,Semi-Furnished,4,Bachelors,3.0,Owner,Gurgaon,130000
+2,Apartment,Semi-Furnished,2,Bachelors,1.0,Owner,Gurgaon,18150
+2, House,Unfurnished,2,Bachelors/Family,3.0,Owner,Gurgaon,24000
+9, House,Semi-Furnished,9,Bachelors,6.0,Agent,Gurgaon,130000
+3,Flat ,Semi-Furnished,3,Family,2.0,Owner,Ahmedabad,20000
+3,Flat ,Semi-Furnished,3,Family,1.0,Owner,Ahmedabad,42000
+4,Flat ,Furnished,4,Family,2.0,Owner,Ahmedabad,130000
+3,Flat ,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,25000
+3,Flat ,Unfurnished,3,Family,1.0,Agent,Ahmedabad,28000
+3,Flat ,Furnished,3,Bachelors,1.0,Owner,Ahmedabad,50000
+2,Flat ,Semi-Furnished,2,Family,1.0,Owner,Ahmedabad,22000
+4,Flat ,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Ahmedabad,10000
+4,Flat ,Unfurnished,4,Family,2.0,Agent,Ahmedabad,30000
+3,Flat ,Furnished,3,Family,3.0,Owner,Ahmedabad,50000
+3,Flat ,Furnished,3,Family,1.0,Owner,Ahmedabad,38000
+3,Flat ,Semi-Furnished,3,Family,1.0,Owner,Ahmedabad,30000
+3,Flat ,Furnished,3,Family,2.0,Agent,Ahmedabad,85000
+3,Flat ,Furnished,3,Family,1.0,Owner,Ahmedabad,36000
+5,Flat ,Semi-Furnished,4,Family,2.0,Agent,Ahmedabad,120000
+2,Flat ,Furnished,2,Family,1.0,Agent,Ahmedabad,25000
+4,Flat ,Furnished,4,Family,1.0,Agent,Ahmedabad,250000
+3,Flat ,Unfurnished,3,Family,2.0,Agent,Ahmedabad,30000
+3,Flat ,Furnished,4,Family,2.0,Agent,Ahmedabad,35000
+4,Villa,Furnished,4,Family,3.0,Agent,Ahmedabad,230000
+3,Flat ,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,40000
+4, House,Unfurnished,3,Family,1.0,Agent,Ahmedabad,30000
+2,Flat ,Semi-Furnished,2,Family,1.0,Agent,Ahmedabad,23000
+4,Flat ,Furnished,4,Family,2.0,Agent,Ahmedabad,170000
+3,Flat ,Furnished,3,Family,2.0,Agent,Ahmedabad,40000
+3,Flat ,Furnished,3,Family,1.0,Agent,Ahmedabad,46000
+3,Flat ,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,26000
+4, House,Furnished,2,Bachelors/Family,2.0,Agent,Ahmedabad,75000
+3,Flat ,Furnished,3,Family,1.0,Agent,Ahmedabad,75000
+4,Flat ,Furnished,4,Family,1.0,Owner,Ahmedabad,150000
+3,Villa,Furnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,70000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,43000
+5,Apartment,Unfurnished,5,Bachelors/Family,2.0,Agent,Ahmedabad,250000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Ahmedabad,27000
+4,Apartment,Furnished,4,Family,1.0,Agent,Ahmedabad,20000
+3,Builder Floor,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Ahmedabad,16000
+4,Apartment,Furnished,5,Family,2.0,Agent,Ahmedabad,75000
+3,Apartment,Unfurnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,50000
+3,Apartment,Unfurnished,3,Bachelors,1.0,Agent,Ahmedabad,55000
+2,Apartment,Unfurnished,1,Bachelors,1.0,Owner,Ahmedabad,25000
+4,Apartment,Semi-Furnished,4,Family,1.0,Agent,Ahmedabad,110000
+4,Apartment,Semi-Furnished,4,Family,2.0,Agent,Ahmedabad,35000
+4,Apartment,Furnished,5,Family,2.0,Agent,Ahmedabad,350000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,68000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,38000
+4,Villa,Furnished,5,Family,2.0,Agent,Ahmedabad,63000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,50000
+3,Apartment,Semi-Furnished,2,Family,1.0,Agent,Ahmedabad,24000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,35000
+3,Apartment,Furnished,2,Family,3.0,Owner,Ahmedabad,39500
+2,Villa,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Ahmedabad,80000
+4,Apartment,Semi-Furnished,4,Bachelors/Family,2.0,Owner,Ahmedabad,68000
+4,Villa,Unfurnished,4,Bachelors,1.0,Owner,Ahmedabad,45000
+4,Villa,Furnished,5,Bachelors/Family,2.0,Owner,Ahmedabad,10000
+3,Apartment,Unfurnished,3,Bachelors/Family,2.0,Owner,Ahmedabad,30000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,55000
+4,Apartment,Furnished,4,Bachelors,2.0,Owner,Ahmedabad,70000
+4,Apartment,Semi-Furnished,3,Bachelors,2.0,Owner,Ahmedabad,55000
+4,Penthouse,Furnished,4,Bachelors,5.0,Owner,Ahmedabad,55000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Owner,Ahmedabad,35000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,36000
+3, House,Semi-Furnished,2,Bachelors/Family,2.0,Owner,Ahmedabad,35000
+4,Villa,Semi-Furnished,5,Bachelors,2.0,Owner,Ahmedabad,41000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Ahmedabad,25000
+3,Apartment,Unfurnished,3,Family,1.0,Agent,Ahmedabad,26000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,27500
+3,Apartment,Furnished,3,Family,1.0,Owner,Ahmedabad,60000
+3,Apartment,Unfurnished,3,Family,1.0,Agent,Ahmedabad,24000
+3,Apartment,Unfurnished,3,Bachelors,1.0,Owner,Ahmedabad,26750
+1,Apartment,Furnished,1,Bachelors,1.0,Owner,Ahmedabad,16000
+4,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,30000
+4,Penthouse,Furnished,4,Family,3.0,Agent,Ahmedabad,85000
+4,Apartment,Semi-Furnished,4,Family,2.0,Agent,Ahmedabad,70000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Agent,Ahmedabad,14500
+2,Apartment,Furnished,2,Family,1.0,Agent,Ahmedabad,21000
+4,Villa,Furnished,5,Family,2.0,Agent,Ahmedabad,58000
+2,Apartment,Semi-Furnished,2,Family,2.0,Agent,Ahmedabad,23500
+4,Villa,Furnished,4,Family,2.0,Agent,Ahmedabad,45000
+2,Apartment,Unfurnished,2,Bachelors/Family,1.0,Agent,Ahmedabad,20000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Ahmedabad,25000
+4,Villa,Furnished,4,Bachelors,3.0,Agent,Ahmedabad,40000
+3,Apartment,Furnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,35000
+3,Apartment,Unfurnished,3,Family,2.0,Agent,Ahmedabad,19500
+3,Apartment,Unfurnished,3,Family,1.0,Agent,Ahmedabad,25000
+3,Apartment,Semi-Furnished,3,Family,2.0,Agent,Ahmedabad,25000
+3,Apartment,Furnished,3,Bachelors,2.0,Agent,Ahmedabad,42000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Ahmedabad,20000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,24000
+3,Apartment,Furnished,3,Bachelors,3.0,Agent,Ahmedabad,35000
+4,Villa,Furnished,5,Family,2.0,Agent,Ahmedabad,180000
+4,Apartment,Furnished,4,Bachelors/Family,5.0,Agent,Ahmedabad,90000
+5, House,Furnished,5,Family,2.0,Agent,Ahmedabad,30000
+2, House,Unfurnished,2,Bachelors,1.0,Owner,Ahmedabad,20000
+4,Apartment,Unfurnished,4,Family,1.0,Agent,Ahmedabad,40000
+3,Villa,Unfurnished,4,Bachelors/Family,2.0,Agent,Ahmedabad,48000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Ahmedabad,24000
+4,Apartment,Semi-Furnished,4,Family,2.0,Agent,Ahmedabad,50000
+3,Apartment,Semi-Furnished,3,Family,1.0,Owner,Ahmedabad,23500
+2,Apartment,Furnished,2,Bachelors,1.0,Agent,Ahmedabad,40000
+3,Apartment,Furnished,3,Bachelors,1.0,Agent,Ahmedabad,40000
+2,Apartment,Semi-Furnished,2,Bachelors,2.0,Agent,Ahmedabad,15500
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Ahmedabad,33000
+4,Apartment,Semi-Furnished,4,Family,1.0,Agent,Ahmedabad,70000
+5,Villa,Semi-Furnished,5,Family,1.0,Agent,Ahmedabad,70000
+3,Apartment,Semi-Furnished,3,Family,3.0,Agent,Ahmedabad,25000
+3,Apartment,Unfurnished,2,Family,1.0,Agent,Ahmedabad,34000
+3,Apartment,Unfurnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,25000
+3,Apartment,Semi-Furnished,3,Bachelors,3.0,Agent,Ahmedabad,30000
+4,Apartment,Unfurnished,4,Family,1.0,Agent,Ahmedabad,65100
+3,Apartment,Unfurnished,3,Family,1.0,Owner,Ahmedabad,18000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,40000
+2,Apartment,Unfurnished,2,Family,1.0,Agent,Ahmedabad,20000
+2,Apartment,Furnished,2,Bachelors,1.0,Agent,Ahmedabad,25000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Ahmedabad,34000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,30000
+4,Apartment,Unfurnished,4,Family,1.0,Agent,Ahmedabad,65000
+2,Apartment,Unfurnished,2,Bachelors/Family,2.0,Owner,Ahmedabad,8000
+4,Apartment,Semi-Furnished,4,Bachelors,2.0,Owner,Ahmedabad,65000
+4,Apartment,Unfurnished,5,Bachelors/Family,2.0,Owner,Ahmedabad,40000
+3,Apartment,Unfurnished,3,Bachelors,1.0,Agent,Ahmedabad,23000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,28000
+4,Villa,Unfurnished,4,Bachelors/Family,1.0,Agent,Ahmedabad,55000
+3,Apartment,Unfurnished,3,Bachelors/Family,1.0,Owner,Ahmedabad,27000
+2,Apartment,Furnished,2,Bachelors,1.0,Owner,Ahmedabad,28000
+3, House,Semi-Furnished,4,Bachelors/Family,1.0,Owner,Ahmedabad,25000
+3,Apartment,Unfurnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,49000
+4,Apartment,Furnished,4,Bachelors,1.0,Owner,Ahmedabad,85000
+3,Apartment,Semi-Furnished,3,Bachelors,1.0,Agent,Ahmedabad,35000
+4,Apartment,Semi-Furnished,4,Family,1.0,Agent,Ahmedabad,63000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Owner,Ahmedabad,30000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,32500
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,60000
+4, House,Unfurnished,4,Bachelors/Family,2.0,Owner,Ahmedabad,45000
+3,Villa,Semi-Furnished,4,Bachelors/Family,1.0,Owner,Ahmedabad,14500
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Ahmedabad,18500
+3,Apartment,Furnished,3,Family,3.0,Owner,Ahmedabad,30000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,45000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,55000
+3,Apartment,Semi-Furnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,23000
+1,Apartment,Semi-Furnished,1,Bachelors/Family,1.0,Agent,Ahmedabad,13000
+3,Apartment,Unfurnished,3,Family,2.0,Agent,Ahmedabad,20000
+3,Apartment,Furnished,3,Family,1.0,Agent,Ahmedabad,57500
+2,Penthouse,Furnished,2,Family,1.0,Agent,Ahmedabad,40000
+2,Apartment,Semi-Furnished,2,Bachelors/Family,1.0,Agent,Ahmedabad,15000
+2,Apartment,Furnished,2,Family,1.0,Agent,Ahmedabad,50000
+3,Penthouse,Furnished,3,Family,1.0,Agent,Ahmedabad,60000
+2,Apartment,Furnished,2,Bachelors,1.0,Agent,Ahmedabad,35000
+3,Apartment,Semi-Furnished,3,Bachelors,2.0,Agent,Ahmedabad,70000
+3,Apartment,Furnished,3,Family,2.0,Agent,Ahmedabad,40000
+2,Apartment,Furnished,1,Family,1.0,Agent,Ahmedabad,25000
+3,Apartment,Furnished,3,Bachelors/Family,2.0,Agent,Ahmedabad,27000
+2,Apartment,Unfurnished,3,Family,1.0,Agent,Ahmedabad,25000
+2,Apartment,Furnished,2,Bachelors/Family,1.0,Agent,Ahmedabad,30000
+2,Apartment,Furnished,2,Family,1.0,Agent,Ahmedabad,30000
+2,Apartment,Semi-Furnished,2,Family,1.0,Agent,Ahmedabad,18000
+3,Apartment,Unfurnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,45000
+4,Apartment,Semi-Furnished,5,Family,1.0,Agent,Ahmedabad,150000
+3,Apartment,Unfurnished,3,Bachelors,3.0,Owner,Ahmedabad,16000
+3,Apartment,Semi-Furnished,3,Family,1.0,Agent,Ahmedabad,30000
+3,Apartment,Unfurnished,3,Family,3.0,Agent,Ahmedabad,25000
+2,Apartment,Unfurnished,2,Bachelors,1.0,Agent,Ahmedabad,18000
+3,Apartment,Unfurnished,2,Bachelors,2.0,Agent,Ahmedabad,23000
+3,Apartment,Unfurnished,3,Family,1.0,Agent,Ahmedabad,23500
+2,Apartment,Furnished,2,Bachelors,1.0,Agent,Ahmedabad,30000
+4,Apartment,Semi-Furnished,4,Family,2.0,Agent,Ahmedabad,58000
+3,Apartment,Furnished,3,Bachelors/Family,1.0,Owner,Ahmedabad,25000
+3,Apartment,Furnished,3,Family,1.0,Owner,Ahmedabad,50000
+5,Villa,Semi-Furnished,5,Family,2.0,Agent,Ahmedabad,50000
+3,Apartment,Unfurnished,3,Bachelors,2.0,Owner,Ahmedabad,38000
+3,Apartment,Unfurnished,3,Bachelors/Family,1.0,Agent,Ahmedabad,26000
